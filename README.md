@@ -1,7 +1,7 @@
 # Projects
 
 ### Go Projects
-- **mailsend-go** - SMTP email sending utility written in Go
+- [mailsend-go](https://github.com/muquit/mailsend-go) - SMTP email sending utility written in Go
 
 ### System Tools
 
