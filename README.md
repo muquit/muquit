@@ -1,6 +1,6 @@
 # Projects
 
-My OpenSource software in github shown below. Please visit
+My OpenSource software in github are shown below. Please visit
 [muquit.com](https://muquit.com/muquit/software) for details.
 
 ### Go Projects
