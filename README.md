@@ -381,6 +381,22 @@
     
   </p>
 </div>
+<!-- Repository: gwt-uploader -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/gwt-uploader">gwt-uploader</a>
+  </h3>
+  <p>An API to enable sophisticated file upload capabilities within a GWT application.</p>
+  <p>
+    📄 No language detected  
+    
+      Created: Aug 13, 2020  
+      Updated: Aug 13, 2020  
+    Published: Apr 21, 2020  
+    🍴 Forked  
+    
+  </p>
+</div>
 <!-- Repository: iphonemm -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -396,6 +412,86 @@
     
   </p>
 </div>
+<!-- Repository: gwtbootstrap3-extras -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/gwtbootstrap3-extras">gwtbootstrap3-extras</a>
+  </h3>
+  <p>Extra (third party) wrappers for GwtBootstrap3</p>
+  <p>
+    🔵 Java  
+    
+      Created: Oct 09, 2017  
+      Updated: Oct 09, 2017  
+    Published: Oct 09, 2017  
+    🍴 Forked  
+    
+  </p>
+</div>
+<!-- Repository: gwtp-eclipse-plugin -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/gwtp-eclipse-plugin">gwtp-eclipse-plugin</a>
+  </h3>
+  <p>GWT-Platform (GWTP) Eclipse Plugin</p>
+  <p>
+    🔵 Java  
+    
+      Created: Feb 28, 2017  
+      Updated: Feb 28, 2017  
+    Published: Mar 02, 2017  
+    🍴 Forked  
+    
+  </p>
+</div>
+<!-- Repository: kalium -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/kalium">kalium</a>
+  </h3>
+  <p>Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium</p>
+  <p>
+    🔵 Java  
+    
+      Created: Oct 02, 2016  
+      Updated: Oct 02, 2016  
+    Published: Oct 03, 2016  
+    🍴 Forked  
+    
+  </p>
+</div>
+<!-- Repository: RNCryptor -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/RNCryptor">RNCryptor</a>
+  </h3>
+  <p>CCCryptor (AES encryption) wrappers for iOS and Mac. -- For Swift, see swift branch and release 4.0.</p>
+  <p>
+    🔵 Swift  
+    
+      Created: Jan 31, 2016  
+      Updated: Jan 31, 2016  
+    Published: Jan 12, 2016  
+    🍴 Forked  
+    
+  </p>
+</div>
+<!-- Repository: RNCryptor-go -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/RNCryptor-go">RNCryptor-go</a>
+  </h3>
+  <p>Go implementation of RNCryptor</p>
+  <p>
+    🔵 Go  
+    
+      Created: Jan 26, 2016  
+      Updated: Jan 26, 2016  
+    Published: Dec 16, 2014  
+    🍴 Forked  
+    
+  </p>
+</div>
 <!-- Repository: iosExamples -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -408,6 +504,38 @@
       Created: Sep 01, 2014  
       Updated: Jan 17, 2016  
     Published: Jan 17, 2016  
+    
+  </p>
+</div>
+<!-- Repository: NMSSH -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/NMSSH">NMSSH</a>
+  </h3>
+  <p>NMSSH is an Objective-C wrapper for libssh2, with a sweet API.</p>
+  <p>
+    🔵 C  
+    
+      Created: Jul 18, 2015  
+      Updated: Jul 18, 2015  
+    Published: Jul 12, 2015  
+    🍴 Forked  
+    
+  </p>
+</div>
+<!-- Repository: MWPhotoBrowser -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/MWPhotoBrowser">MWPhotoBrowser</a>
+  </h3>
+  <p>A simple iOS photo browser with optional grid view, captions and selections.</p>
+  <p>
+    🔵 Objective-C  
+    
+      Created: May 02, 2015  
+      Updated: May 02, 2015  
+    Published: May 02, 2015  
+    🍴 Forked  
     
   </p>
 </div>
