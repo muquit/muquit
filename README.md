@@ -336,21 +336,6 @@
     
   </p>
 </div>
-<!-- Repository: homebrew-mailsend-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/homebrew-mailsend-go">homebrew-mailsend-go</a>
-  </h3>
-  <p>No description provided</p>
-  <p>
-    🔵 Ruby  
-    
-      Created: Oct 21, 2022  
-      Updated: Oct 21, 2022  
-    Published: Oct 21, 2022  
-    
-  </p>
-</div>
 <!-- Repository: dfk_utils -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -519,22 +504,6 @@
       Created: Jul 18, 2015  
       Updated: Jul 18, 2015  
     Published: Jul 12, 2015  
-    🍴 Forked  
-    
-  </p>
-</div>
-<!-- Repository: MWPhotoBrowser -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/MWPhotoBrowser">MWPhotoBrowser</a>
-  </h3>
-  <p>A simple iOS photo browser with optional grid view, captions and selections.</p>
-  <p>
-    🔵 Objective-C  
-    
-      Created: May 02, 2015  
-      Updated: May 02, 2015  
-    Published: May 02, 2015  
     🍴 Forked  
     
   </p>
