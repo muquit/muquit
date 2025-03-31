@@ -50,7 +50,7 @@
 <!-- Repository: privategpt -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
-    📦 <a href="https://github.com/yourusername/privategpt">privategpt</a>
+    📦 <a href="https://github.com/muquit/privategpt">privategpt</a>
   </h3>
   <p>An on-premises ML-powered document assistant application with local LLM using ollama</p>
   <p>🔵 Python</p>
