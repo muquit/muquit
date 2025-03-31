@@ -17,6 +17,21 @@
     
   </p>
 </div>
+<!-- Repository: cubic-ubuntu-server-fix -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/cubic-ubuntu-server-fix">cubic-ubuntu-server-fix</a>
+  </h3>
+  <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
+  <p>
+    🔵 Python  
+    
+      Created: Feb 28, 2025  
+      Updated: Mar 25, 2025  
+    Published: Mar 25, 2025  
+    
+  </p>
+</div>
 <!-- Repository: mailsend-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -151,21 +166,6 @@
       Created: Feb 17, 2025  
       Updated: Mar 26, 2025  
     Published: Mar 26, 2025  
-    
-  </p>
-</div>
-<!-- Repository: cubic-ubuntu-server-fix -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/cubic-ubuntu-server-fix">cubic-ubuntu-server-fix</a>
-  </h3>
-  <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
-  <p>
-    🔵 Python  
-    
-      Created: Feb 28, 2025  
-      Updated: Mar 25, 2025  
-    Published: Mar 25, 2025  
     
   </p>
 </div>
