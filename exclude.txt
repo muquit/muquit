@@ -1,12 +1,7 @@
 # Repositories to exclude
 # One repository name per line
-anything-sync-daemon
+#anything-sync-daemon
 #gwt-uploader
-#kalium
-#RNCryptor
-#RNCryptor-go
-#NMSSH
-MWPhotoBrowser
 #gwtp-eclipse-plugin
 #gwtbootstrap3-extras
 javadoc-test

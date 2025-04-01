@@ -259,6 +259,22 @@
     
   </p>
 </div>
+<!-- Repository: anything-sync-daemon -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/anything-sync-daemon">anything-sync-daemon</a>
+  </h3>
+  <p>Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.</p>
+  <p>
+    📄 No language detected  
+    
+      Created: Apr 02, 2024  
+      Updated: Apr 02, 2024  
+    Published: Nov 06, 2023  
+    🍴 Forked  
+    
+  </p>
+</div>
 <!-- Repository: kickstart.nvim -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -429,22 +445,6 @@
     
   </p>
 </div>
-<!-- Repository: kalium -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/kalium">kalium</a>
-  </h3>
-  <p>Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium</p>
-  <p>
-    🔵 Java  
-    
-      Created: Oct 02, 2016  
-      Updated: Oct 02, 2016  
-    Published: Oct 03, 2016  
-    🍴 Forked  
-    
-  </p>
-</div>
 <!-- Repository: RNCryptor -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -489,22 +489,6 @@
       Created: Sep 01, 2014  
       Updated: Jan 17, 2016  
     Published: Jan 17, 2016  
-    
-  </p>
-</div>
-<!-- Repository: NMSSH -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/NMSSH">NMSSH</a>
-  </h3>
-  <p>NMSSH is an Objective-C wrapper for libssh2, with a sweet API.</p>
-  <p>
-    🔵 C  
-    
-      Created: Jul 18, 2015  
-      Updated: Jul 18, 2015  
-    Published: Jul 12, 2015  
-    🍴 Forked  
     
   </p>
 </div>
