@@ -1,4 +1,4 @@
-# Repositories
+# My Repositories
 
 <div style="display: flex; flex-wrap: wrap;">
 
@@ -57,8 +57,8 @@
     🔵 Go  
     
       Created: Mar 26, 2025  
-      Updated: Mar 30, 2025  
-    Published: Mar 30, 2025  
+      Updated: Apr 01, 2025  
+    Published: Apr 01, 2025  
     
   </p>
 </div>
@@ -531,8 +531,6 @@
 ## Contact
 
 
-🌐 Website: https://www.muquit.com
-
-📧 Email: muquit@gmail.com
+🌐 https://www.muquit.com 📧 muquit@gmail.com
 
 
