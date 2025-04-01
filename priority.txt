@@ -1,0 +1,11 @@
+# Priority order for repositories
+# Repositories listed here will appear at the top in this order
+# One repository name per line
+#current-project
+#important-library
+#cool-tool
+privategpt
+cubic-ubuntu-server-fix
+mailsend-go
+go-xbuild-go
+mailsend
