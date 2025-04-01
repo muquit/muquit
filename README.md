@@ -77,6 +77,36 @@
     
   </p>
 </div>
+<!-- Repository: github-profilegen-go -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a>
+  </h3>
+  <p>Asimple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
+  <p>
+    🔵 Go  
+    
+      Created: Apr 01, 2025  
+      Updated: Apr 01, 2025  
+    Published: Apr 01, 2025  
+    
+  </p>
+</div>
+<!-- Repository: muquit -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/muquit">muquit</a>
+  </h3>
+  <p>My Personal Repositories</p>
+  <p>
+    🔵 Makefile  
+    
+      Created: Feb 21, 2025  
+      Updated: Apr 01, 2025  
+    Published: Apr 01, 2025  
+    
+  </p>
+</div>
 <!-- Repository: markdown-toc-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
