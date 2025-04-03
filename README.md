@@ -36,9 +36,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
@@ -76,9 +76,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
@@ -152,9 +152,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
@@ -174,9 +174,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
@@ -196,9 +196,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
@@ -237,9 +237,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
@@ -259,9 +259,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
@@ -391,9 +391,9 @@
 
 
 
-<button disabled>
+<a style="opacity: 0.001;">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</button>
+</a>
 
 
 </div>
