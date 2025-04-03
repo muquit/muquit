@@ -8,6 +8,8 @@
     📦 <a href="https://github.com/muquit/privategpt">privategpt</a>
   </h3>
   <p>An on-premises ML-powered document assistant application with local LLM using ollama</p>
+
+
   <p>
     🔵 Python  
     
@@ -18,7 +20,6 @@
 
 
 
-
 </div>
 <!-- Repository: cubic-ubuntu-server-fix -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -26,6 +27,10 @@
     📦 <a href="https://github.com/muquit/cubic-ubuntu-server-fix">cubic-ubuntu-server-fix</a>
   </h3>
   <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Python  
     
@@ -36,9 +41,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: mailsend-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -46,6 +48,8 @@
     📦 <a href="https://github.com/muquit/mailsend-go">mailsend-go</a>
   </h3>
   <p>mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol</p>
+
+
   <p>
     🔵 Go  
     
@@ -56,7 +60,6 @@
 
 
 
-
 </div>
 <!-- Repository: go-xbuild-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -64,6 +67,10 @@
     📦 <a href="https://github.com/muquit/go-xbuild-go">go-xbuild-go</a>
   </h3>
   <p>A go program to cross compile go programs for various platforms with ease</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Go  
     
@@ -74,9 +81,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: mailsend -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -84,6 +88,8 @@
     📦 <a href="https://github.com/muquit/mailsend">mailsend</a>
   </h3>
   <p>A program to send mail via SMTP from command line</p>
+
+
   <p>
     🔵 C  
     
@@ -94,7 +100,6 @@
 
 
 
-
 </div>
 <!-- Repository: libsodium-jna -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -102,6 +107,8 @@
     📦 <a href="https://github.com/muquit/libsodium-jna">libsodium-jna</a>
   </h3>
   <p>libsodium-jna is a java library that binds to libsodium C crypto APIs with Java Native Access (JNA)</p>
+
+
   <p>
     🔵 Java  
     
@@ -112,7 +119,6 @@
 
 
 
-
 </div>
 <!-- Repository: grabc -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -120,6 +126,8 @@
     📦 <a href="https://github.com/muquit/grabc">grabc</a>
   </h3>
   <p>A command line tool to identify a pixel color of an X Window System screen</p>
+
+
   <p>
     🔵 C  
     
@@ -130,7 +138,6 @@
 
 
 
-
 </div>
 <!-- Repository: mouse-mover -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -138,6 +145,10 @@
     📦 <a href="https://github.com/muquit/mouse-mover">mouse-mover</a>
   </h3>
   <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Go  
     
@@ -148,9 +159,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: githubdownloadcount -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -158,6 +166,10 @@
     📦 <a href="https://github.com/muquit/githubdownloadcount">githubdownloadcount</a>
   </h3>
   <p>Display github download counts of a project's binary assets</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Ruby  
     
@@ -168,9 +180,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: github-profilegen-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -178,6 +187,10 @@
     📦 <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a>
   </h3>
   <p>Asimple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Go  
     
@@ -188,9 +201,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: RNCryptor-C -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -198,6 +208,8 @@
     📦 <a href="https://github.com/muquit/RNCryptor-C">RNCryptor-C</a>
   </h3>
   <p>C implementation of Rob Napier's RNCryptor data format specification</p>
+
+
   <p>
     📄 No language detected  
     
@@ -209,7 +221,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: markdown-toc-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -217,6 +228,10 @@
     📦 <a href="https://github.com/muquit/markdown-toc-go">markdown-toc-go</a>
   </h3>
   <p>A multi-platform tool to generate Table of Contents for Markdown files</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Go  
     
@@ -227,9 +242,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: genmake-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -237,6 +249,10 @@
     📦 <a href="https://github.com/muquit/genmake-go">genmake-go</a>
   </h3>
   <p>A simple cross-platform tool to generate simple Makefiles for C programs</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Go  
     
@@ -247,9 +263,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: githubdownloadcount-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -257,6 +270,8 @@
     📦 <a href="https://github.com/muquit/githubdownloadcount-go">githubdownloadcount-go</a>
   </h3>
   <p>A simple tool to display download counts for GitHub release assets</p>
+
+
   <p>
     🔵 Go  
     
@@ -267,7 +282,6 @@
 
 
 
-
 </div>
 <!-- Repository: gomail -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -275,6 +289,8 @@
     📦 <a href="https://github.com/muquit/gomail">gomail</a>
   </h3>
   <p>The best way to send emails in Go.</p>
+
+
   <p>
     🔵 Go  
     
@@ -286,7 +302,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: quotedprintable -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -294,6 +309,8 @@
     📦 <a href="https://github.com/muquit/quotedprintable">quotedprintable</a>
   </h3>
   <p>A Go package concerning quoted-printable encoding.</p>
+
+
   <p>
     🔵 Go  
     
@@ -305,7 +322,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: go-xbuild -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -313,6 +329,8 @@
     📦 <a href="https://github.com/muquit/go-xbuild">go-xbuild</a>
   </h3>
   <p>Cross compile Go projects without the complexity of GoReleaser</p>
+
+
   <p>
     🔵 Shell  
     
@@ -323,7 +341,6 @@
 
 
 
-
 </div>
 <!-- Repository: mrdialog -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -331,6 +348,8 @@
     📦 <a href="https://github.com/muquit/mrdialog">mrdialog</a>
   </h3>
   <p>A pure ruby library for the ncurses dialog program</p>
+
+
   <p>
     🔵 Ruby  
     
@@ -341,7 +360,6 @@
 
 
 
-
 </div>
 <!-- Repository: applehealth2csv -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -349,6 +367,8 @@
     📦 <a href="https://github.com/muquit/applehealth2csv">applehealth2csv</a>
   </h3>
   <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
+
+
   <p>
     🔵 Go  
     
@@ -359,7 +379,6 @@
 
 
 
-
 </div>
 <!-- Repository: oauth_tokengen -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -367,6 +386,10 @@
     📦 <a href="https://github.com/muquit/oauth_tokengen">oauth_tokengen</a>
   </h3>
   <p>oauth_tokengen is a command line tool to obtain OAuth2 tokens for different providers using a local callback server</p>
+
+<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+
+
   <p>
     🔵 Shell  
     
@@ -377,9 +400,6 @@
 
 
 
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-
-
 </div>
 <!-- Repository: get-oauth-token -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -387,6 +407,8 @@
     📦 <a href="https://github.com/muquit/get-oauth-token">get-oauth-token</a>
   </h3>
   <p>get-oauth-token is a command line tool to obtain a fresh OAuth2 access token using a refresh token</p>
+
+
   <p>
     🔵 Go  
     
@@ -397,7 +419,6 @@
 
 
 
-
 </div>
 <!-- Repository: anything-sync-daemon -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -405,6 +426,8 @@
     📦 <a href="https://github.com/muquit/anything-sync-daemon">anything-sync-daemon</a>
   </h3>
   <p>Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.</p>
+
+
   <p>
     📄 No language detected  
     
@@ -416,7 +439,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: kickstart.nvim -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -424,6 +446,8 @@
     📦 <a href="https://github.com/muquit/kickstart.nvim">kickstart.nvim</a>
   </h3>
   <p>A launch point for your personal nvim configuration</p>
+
+
   <p>
     🔵 Lua  
     
@@ -435,7 +459,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: gwtoauthlogindemo -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -443,6 +466,8 @@
     📦 <a href="https://github.com/muquit/gwtoauthlogindemo">gwtoauthlogindemo</a>
   </h3>
   <p>Demonstrates how to use OAuth protocol from a GWT application</p>
+
+
   <p>
     🔵 Java  
     
@@ -453,7 +478,6 @@
 
 
 
-
 </div>
 <!-- Repository: hod -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -461,6 +485,8 @@
     📦 <a href="https://github.com/muquit/hod">hod</a>
   </h3>
   <p>hexadecimal or octal data dumper</p>
+
+
   <p>
     🔵 C  
     
@@ -471,7 +497,6 @@
 
 
 
-
 </div>
 <!-- Repository: daybreak -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -479,6 +504,8 @@
     📦 <a href="https://github.com/muquit/daybreak">daybreak</a>
   </h3>
   <p>A simple-dimple key value store for ruby.</p>
+
+
   <p>
     🔵 HTML  
     
@@ -490,7 +517,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: decrypt_metamask_vault -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -498,6 +524,8 @@
     📦 <a href="https://github.com/muquit/decrypt_metamask_vault">decrypt_metamask_vault</a>
   </h3>
   <p>Decrypt Metamask's vault file</p>
+
+
   <p>
     🔵 Ruby  
     
@@ -508,7 +536,6 @@
 
 
 
-
 </div>
 <!-- Repository: dfk_utils -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -516,6 +543,8 @@
     📦 <a href="https://github.com/muquit/dfk_utils">dfk_utils</a>
   </h3>
   <p>Some utilities for interacting with smart contracts of defikingdoms</p>
+
+
   <p>
     🔵 Go  
     
@@ -526,7 +555,6 @@
 
 
 
-
 </div>
 <!-- Repository: hod-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -534,6 +562,8 @@
     📦 <a href="https://github.com/muquit/hod-go">hod-go</a>
   </h3>
   <p>Dump data in hex or octal. A go implementation of https://github.com/muquit/hod</p>
+
+
   <p>
     🔵 Go  
     
@@ -544,7 +574,6 @@
 
 
 
-
 </div>
 <!-- Repository: gwt-uploader -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -552,6 +581,8 @@
     📦 <a href="https://github.com/muquit/gwt-uploader">gwt-uploader</a>
   </h3>
   <p>An API to enable sophisticated file upload capabilities within a GWT application.</p>
+
+
   <p>
     📄 No language detected  
     
@@ -563,7 +594,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: iphonemm -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -571,6 +601,8 @@
     📦 <a href="https://github.com/muquit/iphonemm">iphonemm</a>
   </h3>
   <p>Mastermind game for original iPhone</p>
+
+
   <p>
     🔵 Java  
     
@@ -581,7 +613,6 @@
 
 
 
-
 </div>
 <!-- Repository: gwtbootstrap3-extras -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -589,6 +620,8 @@
     📦 <a href="https://github.com/muquit/gwtbootstrap3-extras">gwtbootstrap3-extras</a>
   </h3>
   <p>Extra (third party) wrappers for GwtBootstrap3</p>
+
+
   <p>
     🔵 Java  
     
@@ -600,7 +633,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: gwtp-eclipse-plugin -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -608,6 +640,8 @@
     📦 <a href="https://github.com/muquit/gwtp-eclipse-plugin">gwtp-eclipse-plugin</a>
   </h3>
   <p>GWT-Platform (GWTP) Eclipse Plugin</p>
+
+
   <p>
     🔵 Java  
     
@@ -619,7 +653,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: RNCryptor -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -627,6 +660,8 @@
     📦 <a href="https://github.com/muquit/RNCryptor">RNCryptor</a>
   </h3>
   <p>CCCryptor (AES encryption) wrappers for iOS and Mac. -- For Swift, see swift branch and release 4.0.</p>
+
+
   <p>
     🔵 Swift  
     
@@ -638,7 +673,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: RNCryptor-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -646,6 +680,8 @@
     📦 <a href="https://github.com/muquit/RNCryptor-go">RNCryptor-go</a>
   </h3>
   <p>Go implementation of RNCryptor</p>
+
+
   <p>
     🔵 Go  
     
@@ -657,7 +693,6 @@
 🍴 Forked  
 
 
-
 </div>
 <!-- Repository: iosExamples -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
@@ -665,6 +700,8 @@
     📦 <a href="https://github.com/muquit/iosExamples">iosExamples</a>
   </h3>
   <p>Various examples of iOS 7+ porgramming</p>
+
+
   <p>
     🔵 Objective-C  
     
@@ -672,7 +709,6 @@
       Updated: Jan 17, 2016  
     Published: Jan 17, 2016  
   </p>
-
 
 
 
