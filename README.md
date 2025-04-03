@@ -1,9 +1,9 @@
 # My Repositories
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 16px;">
 
 <!-- Repository: privategpt -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/privategpt">privategpt</a>
   </h3>
@@ -18,7 +18,7 @@
   </p>
 </div>
 <!-- Repository: cubic-ubuntu-server-fix -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/cubic-ubuntu-server-fix">cubic-ubuntu-server-fix</a>
   </h3>
@@ -33,7 +33,7 @@
   </p>
 </div>
 <!-- Repository: mailsend-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/mailsend-go">mailsend-go</a>
   </h3>
@@ -48,7 +48,7 @@
   </p>
 </div>
 <!-- Repository: go-xbuild-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/go-xbuild-go">go-xbuild-go</a>
   </h3>
@@ -63,7 +63,7 @@
   </p>
 </div>
 <!-- Repository: mailsend -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/mailsend">mailsend</a>
   </h3>
@@ -78,7 +78,7 @@
   </p>
 </div>
 <!-- Repository: libsodium-jna -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/libsodium-jna">libsodium-jna</a>
   </h3>
@@ -93,7 +93,7 @@
   </p>
 </div>
 <!-- Repository: grabc -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/grabc">grabc</a>
   </h3>
@@ -108,7 +108,7 @@
   </p>
 </div>
 <!-- Repository: mouse-mover -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/mouse-mover">mouse-mover</a>
   </h3>
@@ -122,8 +122,23 @@
     
   </p>
 </div>
+<!-- Repository: muquit -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/muquit">muquit</a>
+  </h3>
+  <p>My Personal Repositories</p>
+  <p>
+    🔵 Makefile  
+    
+      Created: Feb 21, 2025  
+      Updated: Apr 03, 2025  
+    Published: Apr 03, 2025  
+    
+  </p>
+</div>
 <!-- Repository: github-profilegen-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a>
   </h3>
@@ -137,23 +152,8 @@
     
   </p>
 </div>
-<!-- Repository: muquit -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/muquit">muquit</a>
-  </h3>
-  <p>My Personal Repositories</p>
-  <p>
-    🔵 Makefile  
-    
-      Created: Feb 21, 2025  
-      Updated: Apr 01, 2025  
-    Published: Apr 01, 2025  
-    
-  </p>
-</div>
 <!-- Repository: RNCryptor-C -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/RNCryptor-C">RNCryptor-C</a>
   </h3>
@@ -169,7 +169,7 @@
   </p>
 </div>
 <!-- Repository: markdown-toc-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/markdown-toc-go">markdown-toc-go</a>
   </h3>
@@ -184,7 +184,7 @@
   </p>
 </div>
 <!-- Repository: genmake-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/genmake-go">genmake-go</a>
   </h3>
@@ -199,7 +199,7 @@
   </p>
 </div>
 <!-- Repository: githubdownloadcount-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/githubdownloadcount-go">githubdownloadcount-go</a>
   </h3>
@@ -214,7 +214,7 @@
   </p>
 </div>
 <!-- Repository: gomail -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/gomail">gomail</a>
   </h3>
@@ -230,7 +230,7 @@
   </p>
 </div>
 <!-- Repository: quotedprintable -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/quotedprintable">quotedprintable</a>
   </h3>
@@ -246,7 +246,7 @@
   </p>
 </div>
 <!-- Repository: go-xbuild -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/go-xbuild">go-xbuild</a>
   </h3>
@@ -261,7 +261,7 @@
   </p>
 </div>
 <!-- Repository: mrdialog -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/mrdialog">mrdialog</a>
   </h3>
@@ -276,7 +276,7 @@
   </p>
 </div>
 <!-- Repository: applehealth2csv -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/applehealth2csv">applehealth2csv</a>
   </h3>
@@ -291,7 +291,7 @@
   </p>
 </div>
 <!-- Repository: oauth_tokengen -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/oauth_tokengen">oauth_tokengen</a>
   </h3>
@@ -306,7 +306,7 @@
   </p>
 </div>
 <!-- Repository: get-oauth-token -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/get-oauth-token">get-oauth-token</a>
   </h3>
@@ -321,7 +321,7 @@
   </p>
 </div>
 <!-- Repository: anything-sync-daemon -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/anything-sync-daemon">anything-sync-daemon</a>
   </h3>
@@ -337,7 +337,7 @@
   </p>
 </div>
 <!-- Repository: kickstart.nvim -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/kickstart.nvim">kickstart.nvim</a>
   </h3>
@@ -353,7 +353,7 @@
   </p>
 </div>
 <!-- Repository: gwtoauthlogindemo -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/gwtoauthlogindemo">gwtoauthlogindemo</a>
   </h3>
@@ -368,7 +368,7 @@
   </p>
 </div>
 <!-- Repository: hod -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/hod">hod</a>
   </h3>
@@ -383,7 +383,7 @@
   </p>
 </div>
 <!-- Repository: daybreak -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/daybreak">daybreak</a>
   </h3>
@@ -399,7 +399,7 @@
   </p>
 </div>
 <!-- Repository: decrypt_metamask_vault -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/decrypt_metamask_vault">decrypt_metamask_vault</a>
   </h3>
@@ -414,7 +414,7 @@
   </p>
 </div>
 <!-- Repository: dfk_utils -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/dfk_utils">dfk_utils</a>
   </h3>
@@ -429,7 +429,7 @@
   </p>
 </div>
 <!-- Repository: hod-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/hod-go">hod-go</a>
   </h3>
@@ -444,7 +444,7 @@
   </p>
 </div>
 <!-- Repository: gwt-uploader -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/gwt-uploader">gwt-uploader</a>
   </h3>
@@ -460,7 +460,7 @@
   </p>
 </div>
 <!-- Repository: iphonemm -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/iphonemm">iphonemm</a>
   </h3>
@@ -475,7 +475,7 @@
   </p>
 </div>
 <!-- Repository: gwtbootstrap3-extras -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/gwtbootstrap3-extras">gwtbootstrap3-extras</a>
   </h3>
@@ -491,7 +491,7 @@
   </p>
 </div>
 <!-- Repository: gwtp-eclipse-plugin -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/gwtp-eclipse-plugin">gwtp-eclipse-plugin</a>
   </h3>
@@ -507,7 +507,7 @@
   </p>
 </div>
 <!-- Repository: RNCryptor -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/RNCryptor">RNCryptor</a>
   </h3>
@@ -523,7 +523,7 @@
   </p>
 </div>
 <!-- Repository: RNCryptor-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/RNCryptor-go">RNCryptor-go</a>
   </h3>
@@ -539,7 +539,7 @@
   </p>
 </div>
 <!-- Repository: iosExamples -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/iosExamples">iosExamples</a>
   </h3>
@@ -554,7 +554,7 @@
   </p>
 </div>
 <!-- Repository: githubdownloadcount -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px;">
   <h3>
     📦 <a href="https://github.com/muquit/githubdownloadcount">githubdownloadcount</a>
   </h3>
@@ -568,6 +568,7 @@
     
   </p>
 </div>
+
 
 
 </div>
