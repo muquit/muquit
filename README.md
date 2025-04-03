@@ -28,7 +28,7 @@
   </h3>
   <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
-<a href="#" style="cursor:pointer">
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 </a>
 
@@ -70,7 +70,9 @@
   </h3>
   <p>A go program to cross compile go programs for various platforms with ease</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
@@ -148,7 +150,9 @@
   </h3>
   <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
@@ -169,7 +173,9 @@
   </h3>
   <p>Display github download counts of a project's binary assets</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
@@ -190,7 +196,9 @@
   </h3>
   <p>Asimple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
@@ -231,7 +239,9 @@
   </h3>
   <p>A multi-platform tool to generate Table of Contents for Markdown files</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
@@ -252,7 +262,9 @@
   </h3>
   <p>A simple cross-platform tool to generate simple Makefiles for C programs</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
@@ -389,7 +401,9 @@
   </h3>
   <p>oauth_tokengen is a command line tool to obtain OAuth2 tokens for different providers using a local callback server</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
