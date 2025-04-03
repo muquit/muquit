@@ -28,7 +28,9 @@
   </h3>
   <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
+<a href="#">
 <img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+</a>
 
 
   <p>
