@@ -9,3 +9,6 @@ cubic-ubuntu-server-fix
 mailsend-go
 go-xbuild-go
 mailsend
+libsodium-jna
+grabc
+mouse-mover
