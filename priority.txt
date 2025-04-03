@@ -12,3 +12,4 @@ mailsend
 libsodium-jna
 grabc
 mouse-mover
+githubdownloadcount

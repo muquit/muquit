@@ -6,3 +6,4 @@
 #gwtbootstrap3-extras
 javadoc-test
 homebrew-mailsend-go
+muquit
