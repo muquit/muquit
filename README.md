@@ -28,17 +28,15 @@
   </h3>
   <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
     🔵 Python  
     
       Created: Feb 28, 2025  
-      Updated: Mar 25, 2025  
-    Published: Mar 25, 2025  
+      Updated: Apr 09, 2025  
+    Published: Apr 07, 2025  
   </p>
 
 
@@ -56,8 +54,8 @@
     🔵 Go  
     
       Created: Jan 26, 2019  
-      Updated: Mar 06, 2025  
-    Published: Nov 05, 2024  
+      Updated: Apr 09, 2025  
+    Published: Apr 06, 2025  
   </p>
 
 
@@ -68,19 +66,17 @@
   <h3>
     📦 <a href="https://github.com/muquit/go-xbuild-go">go-xbuild-go</a>
   </h3>
-  <p>A go program to cross compile go programs for various platforms with ease</p>
+  <p>A go program to cross compile go programs for various platforms with ease and also create releases to github</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
     🔵 Go  
     
       Created: Mar 26, 2025  
-      Updated: Apr 03, 2025  
-    Published: Apr 03, 2025  
+      Updated: Apr 10, 2025  
+    Published: Apr 10, 2025  
   </p>
 
 
@@ -98,8 +94,8 @@
     🔵 C  
     
       Created: Jan 12, 2014  
-      Updated: Mar 30, 2025  
-    Published: Oct 15, 2023  
+      Updated: Apr 06, 2025  
+    Published: Apr 06, 2025  
   </p>
 
 
@@ -136,8 +132,8 @@
     🔵 C  
     
       Created: Apr 11, 2018  
-      Updated: Mar 04, 2025  
-    Published: Jan 25, 2021  
+      Updated: Apr 06, 2025  
+    Published: Apr 06, 2025  
   </p>
 
 
@@ -150,9 +146,7 @@
   </h3>
   <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
@@ -173,9 +167,7 @@
   </h3>
   <p>Display github download counts of a project's binary assets</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
@@ -189,6 +181,25 @@
 
 
 </div>
+<!-- Repository: go-xbuild -->
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
+  <h3>
+    📦 <a href="https://github.com/muquit/go-xbuild">go-xbuild</a>
+  </h3>
+  <p>Cross compile Go projects without the complexity of GoReleaser</p>
+
+
+  <p>
+    🔵 Shell  
+    
+      Created: Feb 17, 2025  
+      Updated: Apr 10, 2025  
+    Published: Apr 10, 2025  
+  </p>
+
+
+
+</div>
 <!-- Repository: github-profilegen-go -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -196,17 +207,15 @@
   </h3>
   <p>Asimple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
     🔵 Go  
     
       Created: Apr 01, 2025  
-      Updated: Apr 01, 2025  
-    Published: Apr 01, 2025  
+      Updated: Apr 03, 2025  
+    Published: Apr 03, 2025  
   </p>
 
 
@@ -239,9 +248,7 @@
   </h3>
   <p>A multi-platform tool to generate Table of Contents for Markdown files</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
@@ -262,9 +269,7 @@
   </h3>
   <p>A simple cross-platform tool to generate simple Makefiles for C programs</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
@@ -337,25 +342,6 @@
 
 
 </div>
-<!-- Repository: go-xbuild -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/go-xbuild">go-xbuild</a>
-  </h3>
-  <p>Cross compile Go projects without the complexity of GoReleaser</p>
-
-
-  <p>
-    🔵 Shell  
-    
-      Created: Feb 17, 2025  
-      Updated: Mar 26, 2025  
-    Published: Mar 26, 2025  
-  </p>
-
-
-
-</div>
 <!-- Repository: mrdialog -->
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
   <h3>
@@ -401,9 +387,7 @@
   </h3>
   <p>oauth_tokengen is a command line tool to obtain OAuth2 tokens for different providers using a local callback server</p>
 
-<a href="#">
-<img src="claude_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
-</a>
+<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
   <p>
