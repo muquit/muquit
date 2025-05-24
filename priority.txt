@@ -9,6 +9,7 @@ cubic-ubuntu-server-fix
 mailsend-go
 go-xbuild-go
 mailsend
+daybreak
 libsodium-jna
 grabc
 mouse-mover
