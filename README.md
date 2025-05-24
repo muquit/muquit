@@ -1,730 +1,904 @@
-# Repositories
 
-<div style="display: flex; flex-wrap: wrap;">
+## 📊 My GitHub Stats
 
-<!-- Repository: privategpt -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/privategpt">privategpt</a>
-  </h3>
-  <p>An on-premises ML-powered document assistant application with local LLM using ollama</p>
+## 📦 My Repositories
 
+Here are some of the projects I've worked on:
 
-  <p>
-    🔵 Python  
-    
-      Created: Sep 16, 2024  
-      Updated: Dec 04, 2024  
-    Published: Dec 04, 2024  
-  </p>
 
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/privategpt" target="_blank" rel="noopener noreferrer">privategpt</a>
+  
+</h3>
 
-</div>
-<!-- Repository: cubic-ubuntu-server-fix -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/cubic-ubuntu-server-fix">cubic-ubuntu-server-fix</a>
-  </h3>
-  <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
+<p>An on-premises ML-powered document assistant application with local LLM using ollama</p>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=white" alt="Language: Python" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/privategpt?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/privategpt?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Dec 04, 2024</small>
+</p>
 
 
-  <p>
-    🔵 Python  
-    
-      Created: Feb 28, 2025  
-      Updated: Apr 09, 2025  
-    Published: Apr 07, 2025  
-  </p>
 
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/cubic-ubuntu-server-fix" target="_blank" rel="noopener noreferrer">cubic-ubuntu-server-fix</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
-</div>
-<!-- Repository: mailsend-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/mailsend-go">mailsend-go</a>
-  </h3>
-  <p>mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol</p>
+<p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=white" alt="Language: Python" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/cubic-ubuntu-server-fix?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/cubic-ubuntu-server-fix?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: May 12, 2025</small>
+</p>
 
-  <p>
-    🔵 Go  
-    
-      Created: Jan 26, 2019  
-      Updated: Apr 09, 2025  
-    Published: Apr 06, 2025  
-  </p>
 
 
+<hr>
 
-</div>
-<!-- Repository: go-xbuild-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/go-xbuild-go">go-xbuild-go</a>
-  </h3>
-  <p>A go program to cross compile go programs for various platforms with ease and also create releases to github</p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/mailsend-go" target="_blank" rel="noopener noreferrer">mailsend-go</a>
+  
+</h3>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+<p>mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/mailsend-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/mailsend-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 11, 2025</small>
+</p>
 
-  <p>
-    🔵 Go  
-    
-      Created: Mar 26, 2025  
-      Updated: Apr 10, 2025  
-    Published: Apr 10, 2025  
-  </p>
 
 
+<hr>
 
-</div>
-<!-- Repository: mailsend -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/mailsend">mailsend</a>
-  </h3>
-  <p>A program to send mail via SMTP from command line</p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/go-xbuild-go" target="_blank" rel="noopener noreferrer">go-xbuild-go</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
+<p>A go program to cross compile go programs for various platforms with ease and also create releases to github</p>
 
-  <p>
-    🔵 C  
-    
-      Created: Jan 12, 2014  
-      Updated: Apr 06, 2025  
-    Published: Apr 06, 2025  
-  </p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/go-xbuild-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/go-xbuild-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 21, 2025</small>
+</p>
 
 
 
-</div>
-<!-- Repository: libsodium-jna -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/libsodium-jna">libsodium-jna</a>
-  </h3>
-  <p>libsodium-jna is a java library that binds to libsodium C crypto APIs with Java Native Access (JNA)</p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/mailsend" target="_blank" rel="noopener noreferrer">mailsend</a>
+  
+</h3>
 
-  <p>
-    🔵 Java  
-    
-      Created: Jun 24, 2017  
-      Updated: Mar 09, 2025  
-    Published: Aug 31, 2024  
-  </p>
+<p>A program to send mail via SMTP from command line</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/mailsend?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/mailsend?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 06, 2025</small>
+</p>
 
 
-</div>
-<!-- Repository: grabc -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/grabc">grabc</a>
-  </h3>
-  <p>A command line tool to identify a pixel color of an X Window System screen</p>
 
+<hr>
 
-  <p>
-    🔵 C  
-    
-      Created: Apr 11, 2018  
-      Updated: Apr 06, 2025  
-    Published: Apr 06, 2025  
-  </p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/libsodium-jna" target="_blank" rel="noopener noreferrer">libsodium-jna</a>
+  
+</h3>
 
+<p>libsodium-jna is a java library that binds to libsodium C crypto APIs with Java Native Access (JNA)</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/libsodium-jna?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/libsodium-jna?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Aug 31, 2024</small>
+</p>
 
-</div>
-<!-- Repository: mouse-mover -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/mouse-mover">mouse-mover</a>
-  </h3>
-  <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
+<hr>
 
-  <p>
-    🔵 Go  
-    
-      Created: Apr 02, 2025  
-      Updated: Apr 02, 2025  
-    Published: Apr 02, 2025  
-  </p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/grabc" target="_blank" rel="noopener noreferrer">grabc</a>
+  
+</h3>
 
+<p>A command line tool to identify a pixel color of an X Window System screen</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/grabc?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/grabc?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 06, 2025</small>
+</p>
 
-</div>
-<!-- Repository: githubdownloadcount -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/githubdownloadcount">githubdownloadcount</a>
-  </h3>
-  <p>Display github download counts of a project's binary assets</p>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
+<hr>
 
-  <p>
-    🔵 Ruby  
-    
-      Created: Jan 06, 2014  
-      Updated: Jan 07, 2014  
-    Published: Jan 07, 2014  
-  </p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/mouse-mover" target="_blank" rel="noopener noreferrer">mouse-mover</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
+<p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/mouse-mover?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/mouse-mover?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 02, 2025</small>
+</p>
 
-</div>
-<!-- Repository: go-xbuild -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/go-xbuild">go-xbuild</a>
-  </h3>
-  <p>Cross compile Go projects without the complexity of GoReleaser</p>
 
 
-  <p>
-    🔵 Shell  
-    
-      Created: Feb 17, 2025  
-      Updated: Apr 10, 2025  
-    Published: Apr 10, 2025  
-  </p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/githubdownloadcount" target="_blank" rel="noopener noreferrer">githubdownloadcount</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
+<p>Display github download counts of a project's binary assets</p>
 
-</div>
-<!-- Repository: github-profilegen-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a>
-  </h3>
-  <p>Asimple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/githubdownloadcount?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/githubdownloadcount?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: May 15, 2025</small>
+</p>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
-  <p>
-    🔵 Go  
-    
-      Created: Apr 01, 2025  
-      Updated: Apr 03, 2025  
-    Published: Apr 03, 2025  
-  </p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/daybreak" target="_blank" rel="noopener noreferrer">daybreak</a>
+  
+</h3>
 
+<p>A simple-dimple key value store for ruby.</p>
 
-</div>
-<!-- Repository: RNCryptor-C -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/RNCryptor-C">RNCryptor-C</a>
-  </h3>
-  <p>C implementation of Rob Napier's RNCryptor data format specification</p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html&logoColor=white" alt="Language: HTML" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/daybreak?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/daybreak?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: May 24, 2025</small>
+</p>
 
 
-  <p>
-    📄 No language detected  
-    
-      Created: Apr 01, 2025  
-      Updated: Apr 01, 2025  
-    Published: Jan 07, 2020  
-  </p>
 
-🍴 Forked  
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/github_test" target="_blank" rel="noopener noreferrer">github_test</a>
+  
+</h3>
 
-</div>
-<!-- Repository: markdown-toc-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/markdown-toc-go">markdown-toc-go</a>
-  </h3>
-  <p>A multi-platform tool to generate Table of Contents for Markdown files</p>
+<p>For testing various things</p>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html&logoColor=white" alt="Language: HTML" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/github_test?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/github_test?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 18, 2025</small>
+</p>
 
 
-  <p>
-    🔵 Go  
-    
-      Created: Mar 29, 2025  
-      Updated: Mar 31, 2025  
-    Published: Mar 30, 2025  
-  </p>
 
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/go-xbuild" target="_blank" rel="noopener noreferrer">go-xbuild</a>
+  
+</h3>
 
-</div>
-<!-- Repository: genmake-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/genmake-go">genmake-go</a>
-  </h3>
-  <p>A simple cross-platform tool to generate simple Makefiles for C programs</p>
+<p>Cross compile Go projects without the complexity of GoReleaser</p>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Shell-grey?style=flat-square&logo=shell&logoColor=white" alt="Language: Shell" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/go-xbuild?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/go-xbuild?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 10, 2025</small>
+</p>
 
 
-  <p>
-    🔵 Go  
-    
-      Created: Mar 30, 2025  
-      Updated: Mar 30, 2025  
-    Published: Mar 30, 2025  
-  </p>
 
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/github-profilegen-go" target="_blank" rel="noopener noreferrer">github-profilegen-go</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
-</div>
-<!-- Repository: githubdownloadcount-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/githubdownloadcount-go">githubdownloadcount-go</a>
-  </h3>
-  <p>A simple tool to display download counts for GitHub release assets</p>
+<p>Asimple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/github-profilegen-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/github-profilegen-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 03, 2025</small>
+</p>
 
-  <p>
-    🔵 Go  
-    
-      Created: Mar 22, 2025  
-      Updated: Mar 28, 2025  
-    Published: Mar 28, 2025  
-  </p>
 
 
+<hr>
 
-</div>
-<!-- Repository: gomail -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/gomail">gomail</a>
-  </h3>
-  <p>The best way to send emails in Go.</p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/genmake-go" target="_blank" rel="noopener noreferrer">genmake-go</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
+<p>A simple cross-platform tool to generate simple Makefiles for C programs</p>
 
-  <p>
-    🔵 Go  
-    
-      Created: Feb 20, 2020  
-      Updated: Mar 27, 2025  
-    Published: Mar 27, 2025  
-  </p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/genmake-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/genmake-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Mar 30, 2025</small>
+</p>
 
-🍴 Forked  
 
 
-</div>
-<!-- Repository: quotedprintable -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/quotedprintable">quotedprintable</a>
-  </h3>
-  <p>A Go package concerning quoted-printable encoding.</p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/markdown-toc-go" target="_blank" rel="noopener noreferrer">markdown-toc-go</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
-  <p>
-    🔵 Go  
-    
-      Created: Feb 04, 2025  
-      Updated: Mar 26, 2025  
-    Published: Mar 26, 2025  
-  </p>
+<p>A multi-platform tool to generate Table of Contents for Markdown files</p>
 
-🍴 Forked  
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/markdown-toc-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/markdown-toc-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Mar 30, 2025</small>
+</p>
 
 
-</div>
-<!-- Repository: mrdialog -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/mrdialog">mrdialog</a>
-  </h3>
-  <p>A pure ruby library for the ncurses dialog program</p>
 
+<hr>
 
-  <p>
-    🔵 Ruby  
-    
-      Created: Apr 20, 2014  
-      Updated: Mar 21, 2025  
-    Published: Apr 30, 2023  
-  </p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/githubdownloadcount-go" target="_blank" rel="noopener noreferrer">githubdownloadcount-go</a>
+  
+</h3>
 
+<p>A simple tool to display download counts for GitHub release assets</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/githubdownloadcount-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/githubdownloadcount-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Mar 28, 2025</small>
+</p>
 
-</div>
-<!-- Repository: applehealth2csv -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/applehealth2csv">applehealth2csv</a>
-  </h3>
-  <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 
-  <p>
-    🔵 Go  
-    
-      Created: Feb 07, 2021  
-      Updated: Mar 01, 2025  
-    Published: Feb 07, 2021  
-  </p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/gomail" target="_blank" rel="noopener noreferrer">gomail</a>
+  
+</h3>
 
+<p>The best way to send emails in Go.</p>
 
-</div>
-<!-- Repository: oauth_tokengen -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/oauth_tokengen">oauth_tokengen</a>
-  </h3>
-  <p>oauth_tokengen is a command line tool to obtain OAuth2 tokens for different providers using a local callback server</p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/gomail?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/gomail?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Mar 27, 2025</small>
+</p>
 
-<img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31">
 
 
-  <p>
-    🔵 Shell  
-    
-      Created: Feb 17, 2025  
-      Updated: Feb 17, 2025  
-    Published: Feb 17, 2025  
-  </p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/quotedprintable" target="_blank" rel="noopener noreferrer">quotedprintable</a>
+  
+</h3>
 
+<p>A Go package concerning quoted-printable encoding.</p>
 
-</div>
-<!-- Repository: get-oauth-token -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/get-oauth-token">get-oauth-token</a>
-  </h3>
-  <p>get-oauth-token is a command line tool to obtain a fresh OAuth2 access token using a refresh token</p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/quotedprintable?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/quotedprintable?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Mar 26, 2025</small>
+</p>
 
 
-  <p>
-    🔵 Go  
-    
-      Created: Feb 17, 2025  
-      Updated: Feb 17, 2025  
-    Published: Feb 17, 2025  
-  </p>
 
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/oauth_tokengen" target="_blank" rel="noopener noreferrer">oauth_tokengen</a>
+  
+    <a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a>
+  
+</h3>
 
-</div>
-<!-- Repository: anything-sync-daemon -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/anything-sync-daemon">anything-sync-daemon</a>
-  </h3>
-  <p>Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.</p>
+<p>oauth_tokengen is a command line tool to obtain OAuth2 tokens for different providers using a local callback server</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Shell-grey?style=flat-square&logo=shell&logoColor=white" alt="Language: Shell" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/oauth_tokengen?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/oauth_tokengen?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Feb 17, 2025</small>
+</p>
 
-  <p>
-    📄 No language detected  
-    
-      Created: Apr 02, 2024  
-      Updated: Apr 02, 2024  
-    Published: Nov 06, 2023  
-  </p>
 
-🍴 Forked  
 
+<hr>
 
-</div>
-<!-- Repository: kickstart.nvim -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/kickstart.nvim">kickstart.nvim</a>
-  </h3>
-  <p>A launch point for your personal nvim configuration</p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/get-oauth-token" target="_blank" rel="noopener noreferrer">get-oauth-token</a>
+  
+</h3>
 
+<p>get-oauth-token is a command line tool to obtain a fresh OAuth2 access token using a refresh token</p>
 
-  <p>
-    🔵 Lua  
-    
-      Created: Mar 24, 2024  
-      Updated: Mar 24, 2024  
-    Published: Mar 28, 2024  
-  </p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/get-oauth-token?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/get-oauth-token?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Feb 17, 2025</small>
+</p>
 
-🍴 Forked  
 
 
-</div>
-<!-- Repository: gwtoauthlogindemo -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/gwtoauthlogindemo">gwtoauthlogindemo</a>
-  </h3>
-  <p>Demonstrates how to use OAuth protocol from a GWT application</p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/kickstart.nvim" target="_blank" rel="noopener noreferrer">kickstart.nvim</a>
+  
+</h3>
 
-  <p>
-    🔵 Java  
-    
-      Created: Jun 08, 2014  
-      Updated: Jan 03, 2024  
-    Published: Jul 13, 2014  
-  </p>
+<p>A launch point for your personal nvim configuration</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Lua-grey?style=flat-square&logo=lua&logoColor=white" alt="Language: Lua" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/kickstart.nvim?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/kickstart.nvim?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Mar 28, 2024</small>
+</p>
 
 
-</div>
-<!-- Repository: hod -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/hod">hod</a>
-  </h3>
-  <p>hexadecimal or octal data dumper</p>
 
+<hr>
 
-  <p>
-    🔵 C  
-    
-      Created: Jan 04, 2014  
-      Updated: Jun 04, 2023  
-    Published: Jun 04, 2023  
-  </p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/anything-sync-daemon" target="_blank" rel="noopener noreferrer">anything-sync-daemon</a>
+  
+</h3>
 
+<p>Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.</p>
 
+<p style="font-size: 0.9em;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/anything-sync-daemon?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/anything-sync-daemon?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Nov 06, 2023</small>
+</p>
 
-</div>
-<!-- Repository: daybreak -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/daybreak">daybreak</a>
-  </h3>
-  <p>A simple-dimple key value store for ruby.</p>
 
 
-  <p>
-    🔵 HTML  
-    
-      Created: May 11, 2023  
-      Updated: May 11, 2023  
-    Published: May 11, 2023  
-  </p>
+<hr>
 
-🍴 Forked  
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/hod" target="_blank" rel="noopener noreferrer">hod</a>
+  
+</h3>
 
+<p>hexadecimal or octal data dumper</p>
 
-</div>
-<!-- Repository: decrypt_metamask_vault -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/decrypt_metamask_vault">decrypt_metamask_vault</a>
-  </h3>
-  <p>Decrypt Metamask's vault file</p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/hod?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/hod?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Jun 04, 2023</small>
+</p>
 
 
-  <p>
-    🔵 Ruby  
-    
-      Created: Jan 29, 2022  
-      Updated: Jan 09, 2023  
-    Published: Feb 08, 2022  
-  </p>
 
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/mrdialog" target="_blank" rel="noopener noreferrer">mrdialog</a>
+  
+</h3>
 
-</div>
-<!-- Repository: dfk_utils -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/dfk_utils">dfk_utils</a>
-  </h3>
-  <p>Some utilities for interacting with smart contracts of defikingdoms</p>
+<p>A pure ruby library for the ncurses dialog program</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/mrdialog?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/mrdialog?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Apr 30, 2023</small>
+</p>
 
-  <p>
-    🔵 Go  
-    
-      Created: Jan 16, 2022  
-      Updated: Aug 12, 2022  
-    Published: Feb 07, 2022  
-  </p>
 
 
+<hr>
 
-</div>
-<!-- Repository: hod-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/hod-go">hod-go</a>
-  </h3>
-  <p>Dump data in hex or octal. A go implementation of https://github.com/muquit/hod</p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/decrypt_metamask_vault" target="_blank" rel="noopener noreferrer">decrypt_metamask_vault</a>
+  
+</h3>
 
+<p>Decrypt Metamask's vault file</p>
 
-  <p>
-    🔵 Go  
-    
-      Created: Jun 25, 2017  
-      Updated: Nov 22, 2021  
-    Published: Nov 22, 2021  
-  </p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/decrypt_metamask_vault?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/decrypt_metamask_vault?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Feb 08, 2022</small>
+</p>
 
 
 
-</div>
-<!-- Repository: gwt-uploader -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/gwt-uploader">gwt-uploader</a>
-  </h3>
-  <p>An API to enable sophisticated file upload capabilities within a GWT application.</p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/dfk_utils" target="_blank" rel="noopener noreferrer">dfk_utils</a>
+  
+</h3>
 
-  <p>
-    📄 No language detected  
-    
-      Created: Aug 13, 2020  
-      Updated: Aug 13, 2020  
-    Published: Apr 21, 2020  
-  </p>
+<p>Some utilities for interacting with smart contracts of defikingdoms</p>
 
-🍴 Forked  
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/dfk_utils?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/dfk_utils?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Feb 07, 2022</small>
+</p>
 
 
-</div>
-<!-- Repository: iphonemm -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/iphonemm">iphonemm</a>
-  </h3>
-  <p>Mastermind game for original iPhone</p>
 
+<hr>
 
-  <p>
-    🔵 Java  
-    
-      Created: May 06, 2018  
-      Updated: May 06, 2018  
-    Published: May 06, 2018  
-  </p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/hod-go" target="_blank" rel="noopener noreferrer">hod-go</a>
+  
+</h3>
 
+<p>Dump data in hex or octal. A go implementation of https://github.com/muquit/hod</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/hod-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/hod-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Nov 22, 2021</small>
+</p>
 
-</div>
-<!-- Repository: gwtbootstrap3-extras -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/gwtbootstrap3-extras">gwtbootstrap3-extras</a>
-  </h3>
-  <p>Extra (third party) wrappers for GwtBootstrap3</p>
 
 
-  <p>
-    🔵 Java  
-    
-      Created: Oct 09, 2017  
-      Updated: Oct 09, 2017  
-    Published: Oct 09, 2017  
-  </p>
+<hr>
 
-🍴 Forked  
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/applehealth2csv" target="_blank" rel="noopener noreferrer">applehealth2csv</a>
+  
+</h3>
 
+<p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
-</div>
-<!-- Repository: gwtp-eclipse-plugin -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/gwtp-eclipse-plugin">gwtp-eclipse-plugin</a>
-  </h3>
-  <p>GWT-Platform (GWTP) Eclipse Plugin</p>
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/applehealth2csv?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/applehealth2csv?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Feb 07, 2021</small>
+</p>
 
 
-  <p>
-    🔵 Java  
-    
-      Created: Feb 28, 2017  
-      Updated: Feb 28, 2017  
-    Published: Mar 02, 2017  
-  </p>
 
-🍴 Forked  
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/gwt-uploader" target="_blank" rel="noopener noreferrer">gwt-uploader</a>
+  
+</h3>
 
-</div>
-<!-- Repository: RNCryptor -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/RNCryptor">RNCryptor</a>
-  </h3>
-  <p>CCCryptor (AES encryption) wrappers for iOS and Mac. -- For Swift, see swift branch and release 4.0.</p>
+<p>An API to enable sophisticated file upload capabilities within a GWT application.</p>
 
+<p style="font-size: 0.9em;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/gwt-uploader?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/gwt-uploader?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Apr 21, 2020</small>
+</p>
 
-  <p>
-    🔵 Swift  
-    
-      Created: Jan 31, 2016  
-      Updated: Jan 31, 2016  
-    Published: Jan 12, 2016  
-  </p>
 
-🍴 Forked  
 
+<hr>
 
-</div>
-<!-- Repository: RNCryptor-go -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/RNCryptor-go">RNCryptor-go</a>
-  </h3>
-  <p>Go implementation of RNCryptor</p>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/RNCryptor-C" target="_blank" rel="noopener noreferrer">RNCryptor-C</a>
+  
+</h3>
 
+<p>C implementation of Rob Napier's RNCryptor data format specification</p>
 
-  <p>
-    🔵 Go  
-    
-      Created: Jan 26, 2016  
-      Updated: Jan 26, 2016  
-    Published: Dec 16, 2014  
-  </p>
+<p style="font-size: 0.9em;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/RNCryptor-C?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/RNCryptor-C?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Jan 07, 2020</small>
+</p>
 
-🍴 Forked  
 
 
-</div>
-<!-- Repository: iosExamples -->
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 8px; width: 320px;">
-  <h3>
-    📦 <a href="https://github.com/muquit/iosExamples">iosExamples</a>
-  </h3>
-  <p>Various examples of iOS 7+ porgramming</p>
+<hr>
 
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/iphonemm" target="_blank" rel="noopener noreferrer">iphonemm</a>
+  
+</h3>
 
-  <p>
-    🔵 Objective-C  
-    
-      Created: Sep 01, 2014  
-      Updated: Jan 17, 2016  
-    Published: Jan 17, 2016  
-  </p>
+<p>Mastermind game for original iPhone</p>
 
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/iphonemm?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/iphonemm?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: May 06, 2018</small>
+</p>
 
 
-</div>
 
+<hr>
 
-</div>
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/gwtbootstrap3-extras" target="_blank" rel="noopener noreferrer">gwtbootstrap3-extras</a>
+  
+</h3>
 
+<p>Extra (third party) wrappers for GwtBootstrap3</p>
 
-## Contact
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/gwtbootstrap3-extras?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/gwtbootstrap3-extras?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Oct 09, 2017</small>
+</p>
 
 
-🌐 https://www.muquit.com 📧 muquit@gmail.com
+
+<hr>
+
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/gwtp-eclipse-plugin" target="_blank" rel="noopener noreferrer">gwtp-eclipse-plugin</a>
+  
+</h3>
+
+<p>GWT-Platform (GWTP) Eclipse Plugin</p>
+
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/gwtp-eclipse-plugin?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/gwtp-eclipse-plugin?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Mar 02, 2017</small>
+</p>
+
+
+
+<hr>
+
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/iosExamples" target="_blank" rel="noopener noreferrer">iosExamples</a>
+  
+</h3>
+
+<p>Various examples of iOS 7+ porgramming</p>
+
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Objective-C-grey?style=flat-square&logo=objective-c&logoColor=white" alt="Language: Objective-C" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/iosExamples?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/iosExamples?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Jan 17, 2016</small>
+</p>
+
+
+
+<hr>
+
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/RNCryptor" target="_blank" rel="noopener noreferrer">RNCryptor</a>
+  
+</h3>
+
+<p>CCCryptor (AES encryption) wrappers for iOS and Mac. -- For Swift, see swift branch and release 4.0.</p>
+
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Swift-grey?style=flat-square&logo=swift&logoColor=white" alt="Language: Swift" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/RNCryptor?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/RNCryptor?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Jan 12, 2016</small>
+</p>
+
+
+
+<hr>
+
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/RNCryptor-go" target="_blank" rel="noopener noreferrer">RNCryptor-go</a>
+  
+</h3>
+
+<p>Go implementation of RNCryptor</p>
+
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/RNCryptor-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/RNCryptor-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+    <span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  
+  <br>
+  <small>Updated: Dec 16, 2014</small>
+</p>
+
+
+
+<hr>
+
+<h3>
+  <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+  <a href="https://github.com/muquit/gwtoauthlogindemo" target="_blank" rel="noopener noreferrer">gwtoauthlogindemo</a>
+  
+</h3>
+
+<p>Demonstrates how to use OAuth protocol from a GWT application</p>
+
+<p style="font-size: 0.9em;">
+  
+    <img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/github/stars/muquit/gwtoauthlogindemo?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;">
+  <img src="https://img.shields.io/github/forks/muquit/gwtoauthlogindemo?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  
+  <br>
+  <small>Updated: Jul 13, 2014</small>
+</p>
+
+
+
+
+## 📫 How to Reach Me
+
+
+- 🌐 https://www.muquit.com 📧 muquit@gmail.com
+
+- ---
+
+- <sub>Generated with: https://github.com/muquit/github-profilegen-go</sub>
+
+
 
 ---
-
-<sub>Generated with: https://github.com/muquit/github-profilegen-go</sub>
-
-
+<p align="right"><small><i>Generated on Fri, 23 May 2025 23:42:08 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>
