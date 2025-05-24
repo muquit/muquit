@@ -14,7 +14,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=white" alt="Language: Python" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/privategpt?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/privategpt?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Dec 04, 2024</small>
+  <small><b>Created</b>: Sep 16, 2024 | <b>Updated</b>: Apr 29, 2025 | <b>Pushed</b>: Dec 04, 2024</small>
 </p>
 
 
@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=white" alt="Language: Python" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/cubic-ubuntu-server-fix?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/cubic-ubuntu-server-fix?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/cubic-ubuntu-server-fix/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/cubic-ubuntu-server-fix/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: May 12, 2025</small>
+  <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: May 12, 2025 | <b>Pushed</b>: May 12, 2025</small>
 </p>
 
 
@@ -42,7 +42,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mailsend-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mailsend-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mailsend-go/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Apr 11, 2025</small>
+  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: May 21, 2025 | <b>Pushed</b>: Apr 11, 2025</small>
 </p>
 
 
@@ -56,7 +56,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/go-xbuild-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/go-xbuild-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/go-xbuild-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/go-xbuild-go/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Apr 21, 2025</small>
+  <small><b>Created</b>: Mar 26, 2025 | <b>Updated</b>: Apr 21, 2025 | <b>Pushed</b>: Apr 21, 2025</small>
 </p>
 
 
@@ -70,7 +70,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mailsend?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mailsend?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mailsend/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Apr 06, 2025</small>
+  <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: May 17, 2025 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
 
 
@@ -84,7 +84,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html&logoColor=white" alt="Language: HTML" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/daybreak?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/daybreak?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/daybreak/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/daybreak/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: May 24, 2025</small>
+  <small><b>Created</b>: May 11, 2023 | <b>Updated</b>: May 24, 2025 | <b>Pushed</b>: May 24, 2025</small>
 </p>
 
 
@@ -98,7 +98,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/libsodium-jna?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/libsodium-jna?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Aug 31, 2024</small>
+  <small><b>Created</b>: Jun 24, 2017 | <b>Updated</b>: May 17, 2025 | <b>Pushed</b>: Aug 31, 2024</small>
 </p>
 
 
@@ -112,7 +112,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/grabc?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/grabc?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/grabc/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/grabc/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Apr 06, 2025</small>
+  <small><b>Created</b>: Apr 11, 2018 | <b>Updated</b>: Apr 06, 2025 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
 
 
@@ -126,7 +126,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mouse-mover?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mouse-mover?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mouse-mover/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mouse-mover/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Apr 02, 2025</small>
+  <small><b>Created</b>: Apr 02, 2025 | <b>Updated</b>: Apr 02, 2025 | <b>Pushed</b>: Apr 02, 2025</small>
 </p>
 
 
@@ -140,7 +140,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/githubdownloadcount?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/githubdownloadcount?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: May 15, 2025</small>
+  <small><b>Created</b>: Jan 06, 2014 | <b>Updated</b>: May 15, 2025 | <b>Pushed</b>: May 15, 2025</small>
 </p>
 
 
@@ -154,7 +154,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html&logoColor=white" alt="Language: HTML" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/github_test?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/github_test?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Apr 18, 2025</small>
+  <small><b>Created</b>: Apr 18, 2025 | <b>Updated</b>: Apr 18, 2025 | <b>Pushed</b>: Apr 18, 2025</small>
 </p>
 
 
@@ -168,7 +168,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Shell-grey?style=flat-square&logo=shell&logoColor=white" alt="Language: Shell" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/go-xbuild?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/go-xbuild?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Apr 10, 2025</small>
+  <small><b>Created</b>: Feb 17, 2025 | <b>Updated</b>: Apr 10, 2025 | <b>Pushed</b>: Apr 10, 2025</small>
 </p>
 
 
@@ -182,7 +182,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/github-profilegen-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/github-profilegen-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/github-profilegen-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/github-profilegen-go/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Apr 03, 2025</small>
+  <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: Apr 03, 2025 | <b>Pushed</b>: Apr 03, 2025</small>
 </p>
 
 
@@ -196,7 +196,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/genmake-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/genmake-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/genmake-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/genmake-go/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Mar 30, 2025</small>
+  <small><b>Created</b>: Mar 30, 2025 | <b>Updated</b>: Mar 30, 2025 | <b>Pushed</b>: Mar 30, 2025</small>
 </p>
 
 
@@ -210,7 +210,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/markdown-toc-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/markdown-toc-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/markdown-toc-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/markdown-toc-go/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Mar 30, 2025</small>
+  <small><b>Created</b>: Mar 29, 2025 | <b>Updated</b>: Mar 31, 2025 | <b>Pushed</b>: Mar 30, 2025</small>
 </p>
 
 
@@ -224,7 +224,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/githubdownloadcount-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/githubdownloadcount-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/githubdownloadcount-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/githubdownloadcount-go/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Mar 28, 2025</small>
+  <small><b>Created</b>: Mar 22, 2025 | <b>Updated</b>: Mar 28, 2025 | <b>Pushed</b>: Mar 28, 2025</small>
 </p>
 
 
@@ -238,7 +238,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/gomail?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/gomail?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Mar 27, 2025</small>
+  <small><b>Created</b>: Feb 20, 2020 | <b>Updated</b>: Mar 27, 2025 | <b>Pushed</b>: Mar 27, 2025</small>
 </p>
 
 
@@ -252,7 +252,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/quotedprintable?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/quotedprintable?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Mar 26, 2025</small>
+  <small><b>Created</b>: Feb 04, 2025 | <b>Updated</b>: Mar 26, 2025 | <b>Pushed</b>: Mar 26, 2025</small>
 </p>
 
 
@@ -266,7 +266,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Shell-grey?style=flat-square&logo=shell&logoColor=white" alt="Language: Shell" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/oauth_tokengen?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/oauth_tokengen?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Feb 17, 2025</small>
+  <small><b>Created</b>: Feb 17, 2025 | <b>Updated</b>: Feb 17, 2025 | <b>Pushed</b>: Feb 17, 2025</small>
 </p>
 
 
@@ -280,7 +280,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/get-oauth-token?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/get-oauth-token?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Feb 17, 2025</small>
+  <small><b>Created</b>: Feb 17, 2025 | <b>Updated</b>: Feb 17, 2025 | <b>Pushed</b>: Feb 17, 2025</small>
 </p>
 
 
@@ -294,7 +294,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Lua-grey?style=flat-square&logo=lua&logoColor=white" alt="Language: Lua" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/kickstart.nvim?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/kickstart.nvim?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Mar 28, 2024</small>
+  <small><b>Created</b>: Mar 24, 2024 | <b>Updated</b>: Mar 24, 2024 | <b>Pushed</b>: Mar 28, 2024</small>
 </p>
 
 
@@ -305,10 +305,10 @@ Here are some of the projects I've worked on:
 
 <p>Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.</p>
 
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/github/stars/muquit/anything-sync-daemon?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Language-N/A-grey?style=flat-square" alt="Language: N/A" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/anything-sync-daemon?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/anything-sync-daemon?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Nov 06, 2023</small>
+  <small><b>Created</b>: Apr 02, 2024 | <b>Updated</b>: Apr 02, 2024 | <b>Pushed</b>: Nov 06, 2023</small>
 </p>
 
 
@@ -322,7 +322,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/hod?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/hod?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/hod/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/hod/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Jun 04, 2023</small>
+  <small><b>Created</b>: Jan 04, 2014 | <b>Updated</b>: Jun 04, 2023 | <b>Pushed</b>: Jun 04, 2023</small>
 </p>
 
 
@@ -336,7 +336,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mrdialog?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mrdialog?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Apr 30, 2023</small>
+  <small><b>Created</b>: Apr 20, 2014 | <b>Updated</b>: Mar 21, 2025 | <b>Pushed</b>: Apr 30, 2023</small>
 </p>
 
 
@@ -350,7 +350,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/decrypt_metamask_vault?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/decrypt_metamask_vault?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Feb 08, 2022</small>
+  <small><b>Created</b>: Jan 29, 2022 | <b>Updated</b>: Jan 09, 2023 | <b>Pushed</b>: Feb 08, 2022</small>
 </p>
 
 
@@ -364,7 +364,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/dfk_utils?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/dfk_utils?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Feb 07, 2022</small>
+  <small><b>Created</b>: Jan 16, 2022 | <b>Updated</b>: Aug 12, 2022 | <b>Pushed</b>: Feb 07, 2022</small>
 </p>
 
 
@@ -378,7 +378,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/hod-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/hod-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: Nov 22, 2021</small>
+  <small><b>Created</b>: Jun 25, 2017 | <b>Updated</b>: Nov 22, 2021 | <b>Pushed</b>: Nov 22, 2021</small>
 </p>
 
 
@@ -392,7 +392,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/applehealth2csv?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/applehealth2csv?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/applehealth2csv/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Feb 07, 2021</small>
+  <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: May 17, 2025 | <b>Pushed</b>: Feb 07, 2021</small>
 </p>
 
 
@@ -403,10 +403,10 @@ Here are some of the projects I've worked on:
 
 <p>An API to enable sophisticated file upload capabilities within a GWT application.</p>
 
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/github/stars/muquit/gwt-uploader?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Language-N/A-grey?style=flat-square" alt="Language: N/A" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/gwt-uploader?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/gwt-uploader?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Apr 21, 2020</small>
+  <small><b>Created</b>: Aug 13, 2020 | <b>Updated</b>: Aug 13, 2020 | <b>Pushed</b>: Apr 21, 2020</small>
 </p>
 
 
@@ -417,10 +417,10 @@ Here are some of the projects I've worked on:
 
 <p>C implementation of Rob Napier's RNCryptor data format specification</p>
 
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor-C?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Language-N/A-grey?style=flat-square" alt="Language: N/A" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor-C?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/RNCryptor-C?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Jan 07, 2020</small>
+  <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: Apr 01, 2025 | <b>Pushed</b>: Jan 07, 2020</small>
 </p>
 
 
@@ -434,7 +434,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/iphonemm?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/iphonemm?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small>Updated: May 06, 2018</small>
+  <small><b>Created</b>: May 06, 2018 | <b>Updated</b>: May 06, 2018 | <b>Pushed</b>: May 06, 2018</small>
 </p>
 
 
@@ -448,7 +448,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/gwtbootstrap3-extras?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/gwtbootstrap3-extras?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Oct 09, 2017</small>
+  <small><b>Created</b>: Oct 09, 2017 | <b>Updated</b>: Oct 09, 2017 | <b>Pushed</b>: Oct 09, 2017</small>
 </p>
 
 
@@ -462,7 +462,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/gwtp-eclipse-plugin?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/gwtp-eclipse-plugin?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Mar 02, 2017</small>
+  <small><b>Created</b>: Feb 28, 2017 | <b>Updated</b>: Feb 28, 2017 | <b>Pushed</b>: Mar 02, 2017</small>
 </p>
 
 
@@ -476,7 +476,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Objective-C-grey?style=flat-square&logo=objective-c&logoColor=white" alt="Language: Objective-C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/iosExamples?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/iosExamples?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/iosExamples/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/iosExamples/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Jan 17, 2016</small>
+  <small><b>Created</b>: Sep 01, 2014 | <b>Updated</b>: Jan 17, 2016 | <b>Pushed</b>: Jan 17, 2016</small>
 </p>
 
 
@@ -490,7 +490,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Swift-grey?style=flat-square&logo=swift&logoColor=white" alt="Language: Swift" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/RNCryptor?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Jan 12, 2016</small>
+  <small><b>Created</b>: Jan 31, 2016 | <b>Updated</b>: Jan 31, 2016 | <b>Pushed</b>: Jan 12, 2016</small>
 </p>
 
 
@@ -504,7 +504,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/RNCryptor-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small>Updated: Dec 16, 2014</small>
+  <small><b>Created</b>: Jan 26, 2016 | <b>Updated</b>: Jan 26, 2016 | <b>Pushed</b>: Dec 16, 2014</small>
 </p>
 
 
@@ -518,7 +518,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/gwtoauthlogindemo?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/gwtoauthlogindemo?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/gwtoauthlogindemo/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/gwtoauthlogindemo/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small>Updated: Jul 13, 2014</small>
+  <small><b>Created</b>: Jun 08, 2014 | <b>Updated</b>: Jan 03, 2024 | <b>Pushed</b>: Jul 13, 2014</small>
 </p>
 
 
@@ -536,4 +536,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 24 May 2025 17:15:37 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Sat, 24 May 2025 17:55:21 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>
