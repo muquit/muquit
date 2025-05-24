@@ -105,6 +105,20 @@ Here are some of the projects I've worked on:
 
 <hr>
 
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/RNCryptor-C" target="_blank" rel="noopener noreferrer">RNCryptor-C</a></h3>
+
+<p>C implementation of Rob Napier's RNCryptor data format specification</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Language-N/A-grey?style=flat-square" alt="Language: N/A" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor-C?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/RNCryptor-C?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
+  <br>
+  <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: Apr 01, 2025 | <b>Pushed</b>: Jan 07, 2020</small>
+</p>
+
+
+
+<hr>
+
 <h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/markdown-toc-go" target="_blank" rel="noopener noreferrer">markdown-toc-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A multi-platform tool to generate Table of Contents for Markdown files</p>
@@ -320,7 +334,7 @@ Here are some of the projects I've worked on:
 <p>hexadecimal or octal data dumper</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/hod?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/hod?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+<img src="https://img.shields.io/github/forks/muquit/hod?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/hod/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/hod/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 04, 2014 | <b>Updated</b>: Jun 04, 2023 | <b>Pushed</b>: Jun 04, 2023</small>
 </p>
@@ -390,7 +404,7 @@ Here are some of the projects I've worked on:
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/applehealth2csv?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/applehealth2csv?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+<img src="https://img.shields.io/github/forks/muquit/applehealth2csv?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/applehealth2csv/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: May 17, 2025 | <b>Pushed</b>: Feb 07, 2021</small>
 </p>
@@ -407,20 +421,6 @@ Here are some of the projects I've worked on:
 <img src="https://img.shields.io/github/forks/muquit/gwt-uploader?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
   <small><b>Created</b>: Aug 13, 2020 | <b>Updated</b>: Aug 13, 2020 | <b>Pushed</b>: Apr 21, 2020</small>
-</p>
-
-
-
-<hr>
-
-<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/RNCryptor-C" target="_blank" rel="noopener noreferrer">RNCryptor-C</a></h3>
-
-<p>C implementation of Rob Napier's RNCryptor data format specification</p>
-
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Language-N/A-grey?style=flat-square" alt="Language: N/A" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor-C?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/RNCryptor-C?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
-  <br>
-  <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: Apr 01, 2025 | <b>Pushed</b>: Jan 07, 2020</small>
 </p>
 
 
@@ -474,7 +474,7 @@ Here are some of the projects I've worked on:
 <p>Various examples of iOS 7+ porgramming</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Objective-C-grey?style=flat-square&logo=objective-c&logoColor=white" alt="Language: Objective-C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/iosExamples?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/iosExamples?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+<img src="https://img.shields.io/github/forks/muquit/iosExamples?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/iosExamples/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/iosExamples/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Sep 01, 2014 | <b>Updated</b>: Jan 17, 2016 | <b>Pushed</b>: Jan 17, 2016</small>
 </p>
@@ -516,7 +516,7 @@ Here are some of the projects I've worked on:
 <p>Demonstrates how to use OAuth protocol from a GWT application</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/gwtoauthlogindemo?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/gwtoauthlogindemo?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+<img src="https://img.shields.io/github/forks/muquit/gwtoauthlogindemo?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/gwtoauthlogindemo/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/gwtoauthlogindemo/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jun 08, 2014 | <b>Updated</b>: Jan 03, 2024 | <b>Pushed</b>: Jul 13, 2014</small>
 </p>
@@ -536,4 +536,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 24 May 2025 18:40:06 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Sat, 24 May 2025 18:54:05 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>

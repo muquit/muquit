@@ -11,6 +11,7 @@ mailsend
 github-profilegen-go
 cubic-ubuntu-server-fix
 libsodium-jna
+RNCryptor-C
 markdown-toc-go
 daybreak
 grabc
