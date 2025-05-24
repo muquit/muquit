@@ -7,6 +7,6 @@ oauth_tokengen|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 get-ouath-token|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 genmake-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 markdown-toc-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
-github-profilegen-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
+github-profilegen-go|ai_assisted.svg|Claude AI/Gemini Assisted|Claude AI/Gemini Assisted|96|31
 mouse-mover|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 

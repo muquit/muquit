@@ -1,0 +1,14 @@
+For testing:
+
+    git checkout -b test-readme
+
+- update makefile change path of profile generator to
+- the latest
+
+    make
+    git add README.md
+    git commit -m "Test new README.md generation"
+    git push origin test-readme
+
+-  got to https://github.com/muquit/muquit 
+- change branch to test-readme
