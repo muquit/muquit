@@ -109,10 +109,10 @@ Here are some of the projects I've worked on:
 
 <p>C implementation of Rob Napier's RNCryptor data format specification</p>
 
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Language-N/A-grey?style=flat-square" alt="Language: N/A" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor-C?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/RNCryptor-C?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/RNCryptor-C?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: Apr 01, 2025 | <b>Pushed</b>: Jan 07, 2020</small>
+  <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: May 25, 2025 | <b>Pushed</b>: May 25, 2025</small>
 </p>
 
 
@@ -137,10 +137,10 @@ Here are some of the projects I've worked on:
 
 <p>A simple-dimple key value store for ruby.</p>
 
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html&logoColor=white" alt="Language: HTML" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/daybreak?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/daybreak?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/daybreak?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/daybreak/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/daybreak/latest/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
-  <small><b>Created</b>: May 11, 2023 | <b>Updated</b>: May 24, 2025 | <b>Pushed</b>: May 24, 2025</small>
+  <small><b>Created</b>: May 11, 2023 | <b>Updated</b>: May 25, 2025 | <b>Pushed</b>: May 25, 2025</small>
 </p>
 
 
@@ -536,4 +536,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 24 May 2025 18:54:05 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Sat, 24 May 2025 20:55:59 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>
