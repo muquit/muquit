@@ -1,7 +1,7 @@
 
-## 📊 My GitHub Stats
+## 📊 
 
-## 📦 My Repositories
+## 📦 Repositories
 
 Here are some of the projects I've worked on:
 
@@ -536,4 +536,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sun, 25 May 2025 21:56:25 EDT with <a href="https://github.com/YOUR_USERNAME/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Sun, 25 May 2025 22:03:02 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
