@@ -7,9 +7,10 @@
 privategpt
 go-xbuild-go
 mailsend-go
+smtp-oauth-setup-guide
+oauth-helper
 mailsend
 github-profilegen-go
-cubic-ubuntu-server-fix
 libsodium-jna
 RNCryptor-C
 markdown-toc-go
@@ -17,3 +18,4 @@ daybreak
 grabc
 mouse-mover
 genmake-go
+cubic-ubuntu-server-fix
