@@ -9,4 +9,5 @@ genmake-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 markdown-toc-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 github-profilegen-go|ai_assisted.svg|Claude AI/Gemini Assisted|Claude AI/Gemini Assisted|96|31
 mouse-mover|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
-
+smtp-oauth-setup-guide|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
+oauth-helper|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31

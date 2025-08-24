@@ -49,6 +49,34 @@ Here are some of the projects I've worked on:
 
 <hr>
 
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/smtp-oauth-setup-guide" target="_blank" rel="noopener noreferrer">smtp-oauth-setup-guide</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+
+<p>Setting up OAuth authentication for SMTP email sending with various providers</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Makefile-grey?style=flat-square&logo=makefile&logoColor=white" alt="Language: Makefile" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/smtp-oauth-setup-guide?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/smtp-oauth-setup-guide?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  <br>
+  <small><b>Created</b>: Jul 02, 2025 | <b>Updated</b>: Aug 24, 2025 | <b>Pushed</b>: Aug 23, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/oauth-helper" target="_blank" rel="noopener noreferrer">oauth-helper</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+
+<p>A multi-platform tool to obtain OAuth2 access tokens for SMTP authentication</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/oauth-helper?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/oauth-helper?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/oauth-helper/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/oauth-helper/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+  <br>
+  <small><b>Created</b>: Jul 17, 2025 | <b>Updated</b>: Aug 24, 2025 | <b>Pushed</b>: Aug 23, 2025</small>
+</p>
+
+
+
+<hr>
+
 <h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/mailsend" target="_blank" rel="noopener noreferrer">mailsend</a></h3>
 
 <p>A program to send mail via SMTP from command line</p>
@@ -550,4 +578,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 23 Aug 2025 17:12:32 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Sun, 24 Aug 2025 14:39:58 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
