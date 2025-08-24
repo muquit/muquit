@@ -42,7 +42,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mailsend-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mailsend-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mailsend-go/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Jul 27, 2025 | <b>Pushed</b>: Apr 11, 2025</small>
+  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 24, 2025 | <b>Pushed</b>: Aug 24, 2025</small>
 </p>
 
 
@@ -578,4 +578,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sun, 24 Aug 2025 14:39:58 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Sun, 24 Aug 2025 14:53:44 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
