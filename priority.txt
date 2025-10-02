@@ -4,11 +4,11 @@
 #current-project
 #important-library
 #cool-tool
-ssl-tls-verify
-go-xbuild-go
 mailsend-go
 smtp-oauth-setup-guide
 oauth-helper
+ssl-tls-verify
+go-xbuild-go
 mailsend
 privategpt
 github-profilegen-go
