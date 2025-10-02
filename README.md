@@ -7,14 +7,14 @@ Here are some of the projects I've worked on:
 
 
 
-<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/privategpt" target="_blank" rel="noopener noreferrer">privategpt</a></h3>
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/ssl-tls-verify" target="_blank" rel="noopener noreferrer">ssl-tls-verify</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
-<p>An on-premises ML-powered document assistant application with local LLM using ollama</p>
+<p>A cross-platform tool to test and verify SSL/TLS connections</p>
 
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=white" alt="Language: Python" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/privategpt?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/privategpt?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/ssl-tls-verify?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/ssl-tls-verify?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/ssl-tls-verify/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/ssl-tls-verify/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Sep 16, 2024 | <b>Updated</b>: Aug 20, 2025 | <b>Pushed</b>: Dec 04, 2024</small>
+  <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Oct 01, 2025 | <b>Pushed</b>: Oct 01, 2025</small>
 </p>
 
 
@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/go-xbuild-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/go-xbuild-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/go-xbuild-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/go-xbuild-go/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Mar 26, 2025 | <b>Updated</b>: Jun 22, 2025 | <b>Pushed</b>: Jun 22, 2025</small>
+  <small><b>Created</b>: Mar 26, 2025 | <b>Updated</b>: Sep 29, 2025 | <b>Pushed</b>: Sep 29, 2025</small>
 </p>
 
 
@@ -42,7 +42,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mailsend-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mailsend-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mailsend-go/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 24, 2025 | <b>Pushed</b>: Aug 24, 2025</small>
+  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Sep 27, 2025 | <b>Pushed</b>: Sep 27, 2025</small>
 </p>
 
 
@@ -84,7 +84,21 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mailsend?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mailsend?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mailsend/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Jul 27, 2025 | <b>Pushed</b>: Apr 06, 2025</small>
+  <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Sep 30, 2025 | <b>Pushed</b>: Apr 06, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/privategpt" target="_blank" rel="noopener noreferrer">privategpt</a></h3>
+
+<p>An on-premises ML-powered document assistant application with local LLM using ollama</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=white" alt="Language: Python" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/privategpt?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/privategpt?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  <br>
+  <small><b>Created</b>: Sep 16, 2024 | <b>Updated</b>: Aug 20, 2025 | <b>Pushed</b>: Dec 04, 2024</small>
 </p>
 
 
@@ -168,7 +182,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/grabc?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/grabc?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/grabc/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/grabc/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Apr 11, 2018 | <b>Updated</b>: Apr 06, 2025 | <b>Pushed</b>: Apr 06, 2025</small>
+  <small><b>Created</b>: Apr 11, 2018 | <b>Updated</b>: Sep 06, 2025 | <b>Pushed</b>: Sep 06, 2025</small>
 </p>
 
 
@@ -211,6 +225,48 @@ Here are some of the projects I've worked on:
 <img src="https://img.shields.io/github/forks/muquit/cubic-ubuntu-server-fix?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/cubic-ubuntu-server-fix/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/cubic-ubuntu-server-fix/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: Aug 17, 2025 | <b>Pushed</b>: May 12, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
+
+<p>Repo for Homebrew formulae</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/homebrew-formulae?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/homebrew-formulae?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  <br>
+  <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Sep 26, 2025 | <b>Pushed</b>: Sep 26, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/hello-world" target="_blank" rel="noopener noreferrer">hello-world</a></h3>
+
+<p>A repo for testing homebrew formulae</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Makefile-grey?style=flat-square&logo=makefile&logoColor=white" alt="Language: Makefile" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/hello-world?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/hello-world?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/hello-world/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/hello-world/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+  <br>
+  <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Sep 26, 2025 | <b>Pushed</b>: Sep 26, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/hod" target="_blank" rel="noopener noreferrer">hod</a></h3>
+
+<p>hexadecimal or octal data dumper</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/hod?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/hod?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/hod/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/hod/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+  <br>
+  <small><b>Created</b>: Jan 04, 2014 | <b>Updated</b>: Sep 18, 2025 | <b>Pushed</b>: Sep 18, 2025</small>
 </p>
 
 
@@ -365,20 +421,6 @@ Here are some of the projects I've worked on:
 <img src="https://img.shields.io/github/forks/muquit/anything-sync-daemon?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><span style="margin-left: 8px; font-style: italic;">(🍴 Forked)</span>
   <br>
   <small><b>Created</b>: Apr 02, 2024 | <b>Updated</b>: Apr 02, 2024 | <b>Pushed</b>: Nov 06, 2023</small>
-</p>
-
-
-
-<hr>
-
-<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/hod" target="_blank" rel="noopener noreferrer">hod</a></h3>
-
-<p>hexadecimal or octal data dumper</p>
-
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/hod?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/hod?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/hod/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/hod/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
-  <br>
-  <small><b>Created</b>: Jan 04, 2014 | <b>Updated</b>: Jun 04, 2023 | <b>Pushed</b>: Jun 04, 2023</small>
 </p>
 
 
@@ -578,4 +620,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sun, 24 Aug 2025 14:53:44 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Wed, 01 Oct 2025 20:18:42 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>

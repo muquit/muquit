@@ -4,12 +4,13 @@
 #current-project
 #important-library
 #cool-tool
-privategpt
+ssl-tls-verify
 go-xbuild-go
 mailsend-go
 smtp-oauth-setup-guide
 oauth-helper
 mailsend
+privategpt
 github-profilegen-go
 libsodium-jna
 RNCryptor-C
