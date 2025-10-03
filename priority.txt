@@ -5,11 +5,11 @@
 #important-library
 #cool-tool
 mailsend-go
+mailsend
 smtp-oauth-setup-guide
 oauth-helper
 ssl-tls-verify
 go-xbuild-go
-mailsend
 privategpt
 github-profilegen-go
 libsodium-jna
