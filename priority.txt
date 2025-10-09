@@ -6,12 +6,12 @@
 #cool-tool
 mailsend-go
 mailsend
-smtp-oauth-setup-guide
-oauth-helper
 ssl-tls-verify
 go-xbuild-go
-privategpt
 github-profilegen-go
+smtp-oauth-setup-guide
+oauth-helper
+privategpt
 libsodium-jna
 RNCryptor-C
 markdown-toc-go
