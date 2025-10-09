@@ -7,6 +7,7 @@
 mailsend-go
 mailsend
 ssl-tls-verify
+clip-httpd
 go-xbuild-go
 github-profilegen-go
 smtp-oauth-setup-guide
