@@ -11,6 +11,7 @@ clip-httpd
 go-xbuild-go
 github-profilegen-go
 smtp-oauth-setup-guide
+mrdialog
 oauth-helper
 privategpt
 libsodium-jna
