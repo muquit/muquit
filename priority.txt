@@ -6,6 +6,8 @@
 #cool-tool
 mailsend-go
 mailsend
+multiple-github-accounts
+bash-prompt
 ssl-tls-verify
 clip-httpd
 go-xbuild-go
