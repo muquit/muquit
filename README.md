@@ -14,7 +14,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mailsend-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mailsend-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mailsend-go/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Jan 13, 2026 | <b>Pushed</b>: Nov 13, 2025</small>
+  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Apr 04, 2026 | <b>Pushed</b>: Apr 04, 2026</small>
 </p>
 
 
@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/mailsend?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/mailsend?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/mailsend/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Feb 22, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
+  <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Mar 15, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
 
 
@@ -182,7 +182,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/libsodium-jna?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/libsodium-jna?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/libsodium-jna/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/libsodium-jna/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Jun 24, 2017 | <b>Updated</b>: Mar 07, 2026 | <b>Pushed</b>: Feb 05, 2026</small>
+  <small><b>Created</b>: Jun 24, 2017 | <b>Updated</b>: Apr 03, 2026 | <b>Pushed</b>: Feb 05, 2026</small>
 </p>
 
 
@@ -287,6 +287,20 @@ Here are some of the projects I've worked on:
 
 <hr>
 
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
+
+<p>Repo for Homebrew formulae</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/homebrew-formulae?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/homebrew-formulae?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
+  <br>
+  <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Apr 04, 2026 | <b>Pushed</b>: Apr 04, 2026</small>
+</p>
+
+
+
+<hr>
+
 <h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/test-release" target="_blank" rel="noopener noreferrer">test-release</a></h3>
 
 <p>Test release with go-xbuild-go</p>
@@ -295,20 +309,6 @@ Here are some of the projects I've worked on:
 <img src="https://img.shields.io/github/forks/muquit/test-release?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/test-release/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/test-release/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Oct 08, 2025 | <b>Updated</b>: Oct 08, 2025 | <b>Pushed</b>: Oct 11, 2025</small>
-</p>
-
-
-
-<hr>
-
-<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
-
-<p>Repo for Homebrew formulae</p>
-
-<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=white" alt="Language: Ruby" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/homebrew-formulae?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
-<img src="https://img.shields.io/github/forks/muquit/homebrew-formulae?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
-  <br>
-  <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Sep 26, 2025 | <b>Pushed</b>: Sep 26, 2025</small>
 </p>
 
 
@@ -406,7 +406,7 @@ Here are some of the projects I've worked on:
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Shell-grey?style=flat-square&logo=shell&logoColor=white" alt="Language: Shell" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/go-xbuild?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/go-xbuild?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;">
   <br>
-  <small><b>Created</b>: Feb 17, 2025 | <b>Updated</b>: Feb 08, 2026 | <b>Pushed</b>: Apr 10, 2025</small>
+  <small><b>Created</b>: Feb 17, 2025 | <b>Updated</b>: Apr 01, 2026 | <b>Pushed</b>: Apr 10, 2025</small>
 </p>
 
 
@@ -676,4 +676,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sun, 08 Mar 2026 20:55:56 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Sat, 04 Apr 2026 20:14:17 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
