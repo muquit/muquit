@@ -9,6 +9,7 @@ mailsend
 multiple-github-accounts
 bash-prompt
 ssl-tls-verify
+libgpw
 clip-httpd
 go-xbuild-go
 github-profilegen-go
