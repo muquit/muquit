@@ -79,12 +79,26 @@ Here are some of the projects I've worked on:
 
 <h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/libgpw" target="_blank" rel="noopener noreferrer">libgpw</a></h3>
 
-<p>A java library to generate "pronounceable" passwords.</p>
+<p>Pronounceable password generator - Java library with CLI and Swing GUI</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=white" alt="Language: Java" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/libgpw?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
 <img src="https://img.shields.io/github/forks/muquit/libgpw?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/libgpw/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/libgpw/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Oct 19, 2025 | <b>Updated</b>: May 28, 2026 | <b>Pushed</b>: May 28, 2026</small>
+  <small><b>Created</b>: Oct 19, 2025 | <b>Updated</b>: Jun 02, 2026 | <b>Pushed</b>: Jun 02, 2026</small>
+</p>
+
+
+
+<hr>
+
+<h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/libgpw-go" target="_blank" rel="noopener noreferrer">libgpw-go</a></h3>
+
+<p>Pronounceable password generator - Go library with CLI and WASM web GUI</p>
+
+<p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/github/stars/muquit/libgpw-go?style=flat-square&label=Stars" alt="Stars" style="vertical-align: middle;"> 
+<img src="https://img.shields.io/github/forks/muquit/libgpw-go?style=flat-square&label=Forks" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/libgpw-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/muquit/libgpw-go/total?style=flat-square&label=Downloads&color=green" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+  <br>
+  <small><b>Created</b>: Nov 25, 2025 | <b>Updated</b>: Jun 04, 2026 | <b>Pushed</b>: Jun 04, 2026</small>
 </p>
 
 
@@ -718,4 +732,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Wed, 27 May 2026 23:17:43 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>
+<p align="right"><small><i>Generated on Thu, 04 Jun 2026 01:07:20 EDT with <a href="https://github.com/muquit/github-profilegen-go">github-profilegen-go</a></i></small></p>

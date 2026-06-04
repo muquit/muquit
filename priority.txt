@@ -10,6 +10,7 @@ multiple-github-accounts
 bash-prompt
 ssl-tls-verify
 libgpw
+libgpw-go
 clip-httpd
 go-xbuild-go
 github-profilegen-go
