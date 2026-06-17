@@ -12,7 +12,7 @@ Here are some of the projects I've worked on:
 <p>mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-192-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-21-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65154-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-21-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65202-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Jun 16, 2026 | <b>Pushed</b>: May 17, 2026</small>
 </p>
@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-302-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-70-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-77326-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-70-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-77329-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Jun 11, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -732,4 +732,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Tue, 16 Jun 2026 21:47:37 EDT</p>
+<p align="right"><small><i>Generated on Wed, 17 Jun 2026 14:20:21 EDT</p>
