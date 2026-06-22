@@ -12,7 +12,7 @@ Here are some of the projects I've worked on:
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-192-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-21-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65285-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-22-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65305-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Jun 18, 2026 | <b>Pushed</b>: Jun 18, 2026</small>
 </p>
@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-302-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-70-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-77348-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-70-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-77352-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Jun 11, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -124,9 +124,9 @@ Here are some of the projects I've worked on:
 <p>A go program to cross compile go programs for various platforms with ease and also create releases to github</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/go-xbuild-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-136-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/go-xbuild-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-137-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Mar 26, 2025 | <b>Updated</b>: May 17, 2026 | <b>Pushed</b>: May 17, 2026</small>
+  <small><b>Created</b>: Mar 26, 2025 | <b>Updated</b>: Jun 22, 2026 | <b>Pushed</b>: Jun 22, 2026</small>
 </p>
 
 
@@ -236,7 +236,7 @@ Here are some of the projects I've worked on:
 <p>A multi-platform tool to generate Table of Contents for Markdown files and more</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/markdown-toc-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-13-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/markdown-toc-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-14-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Mar 29, 2025 | <b>Updated</b>: Feb 12, 2026 | <b>Pushed</b>: Jul 05, 2025</small>
 </p>
@@ -278,7 +278,7 @@ Here are some of the projects I've worked on:
 <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mouse-mover/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-83-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mouse-mover/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-84-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Apr 02, 2025 | <b>Updated</b>: Apr 02, 2025 | <b>Pushed</b>: Apr 02, 2025</small>
 </p>
@@ -376,7 +376,7 @@ Here are some of the projects I've worked on:
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-28-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-3-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-285-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-3-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-286-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: May 22, 2026 | <b>Pushed</b>: Apr 15, 2026</small>
 </p>
@@ -732,4 +732,4 @@ Here are some of the projects I've worked on:
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 20 Jun 2026 22:48:56 EDT</p>
+<p align="right"><small><i>Generated on Mon, 22 Jun 2026 00:43:05 EDT</p>
