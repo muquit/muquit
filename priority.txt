@@ -7,6 +7,7 @@
 mailsend-go
 mailsend
 markdown-serve
+NotarizeMacApp
 multiple-github-accounts
 bash-prompt
 ssl-tls-verify
