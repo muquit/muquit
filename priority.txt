@@ -6,6 +6,7 @@
 #cool-tool
 mailsend-go
 mailsend
+markdown-serve
 multiple-github-accounts
 bash-prompt
 ssl-tls-verify

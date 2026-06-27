@@ -2,6 +2,7 @@
 ssl-tls-verify|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 clip-httpd|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 go-xbuild-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
+markdown-serve|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 cubic-ubuntu-server-fix|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 githubdownloadcount|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 gomail-fork|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
