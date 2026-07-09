@@ -5,7 +5,7 @@
 
 Here are some of the projects I've worked on. Note: all the badge counts are statically generated because live shields.io badges were rate-limited, and require periodic regeneration.
 
-**Generated on:** Tue, 07 Jul 2026 22:11:24 EDT
+**Generated on:** Wed, 08 Jul 2026 22:10:53 EDT
 
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.6
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-192-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-22-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65,660-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-22-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65,680-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Jun 24, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -30,7 +30,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white" alt="Language: C" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-302-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-70-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-77,406-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-70-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-77,409-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Jun 11, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -408,7 +408,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-28-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-3-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-295-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-3-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-296-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: May 22, 2026 | <b>Pushed</b>: Apr 15, 2026</small>
 </p>
@@ -764,4 +764,4 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 
 
 ---
-<p align="right"><small><i>Generated on Tue, 07 Jul 2026 22:11:24 EDT</p>
+<p align="right"><small><i>Generated on Wed, 08 Jul 2026 22:10:53 EDT</p>
