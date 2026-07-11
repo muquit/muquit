@@ -5,7 +5,7 @@
 
 Here are some of the projects I've worked on. Note: all the badge counts are statically generated because live shields.io badges were rate-limited, and require periodic regeneration.
 
-**Generated on:** Sat, 11 Jul 2026 16:36:11 EDT
+**Generated on:** Sat, 11 Jul 2026 19:10:28 EDT
 
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.6
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-192-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-22-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65,759-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-22-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/mailsend-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-65,761-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Jun 24, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -41,12 +41,12 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 
 <h3><svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" style="vertical-align: middle; margin-right: 5px;"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg><a href="https://github.com/muquit/markdown-serve" target="_blank" rel="noopener noreferrer">markdown-serve</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
-<p>A cross-platform command-line web server to browse Markdown files as HTML</p>
+<p>A cross-platform command-line web server to browse Markdown files as HTML with auto refresh</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
 <img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/markdown-serve/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-1-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
-  <small><b>Created</b>: Jun 17, 2026 | <b>Updated</b>: Jun 27, 2026 | <b>Pushed</b>: Jun 27, 2026</small>
+  <small><b>Created</b>: Jun 17, 2026 | <b>Updated</b>: Jul 11, 2026 | <b>Pushed</b>: Jun 27, 2026</small>
 </p>
 
 
@@ -764,4 +764,4 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 11 Jul 2026 16:36:11 EDT</p>
+<p align="right"><small><i>Generated on Sat, 11 Jul 2026 19:10:28 EDT</p>
