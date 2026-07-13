@@ -5,7 +5,7 @@
 
 Here are some of the projects I've worked on. Note: all the badge counts are statically generated because live shields.io badges were rate-limited, and require periodic regeneration.
 
-**Generated on:** Mon, 13 Jul 2026 04:29:44 EDT
+**Generated on:** Mon, 13 Jul 2026 05:30:01 EDT
 
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.6
 
@@ -408,7 +408,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-28-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-3-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-299-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-3-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/applehealth2csv/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-300-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: May 22, 2026 | <b>Pushed</b>: Apr 15, 2026</small>
 </p>
@@ -764,4 +764,4 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 
 
 ---
-<p align="right"><small><i>Generated on Mon, 13 Jul 2026 04:29:44 EDT</p>
+<p align="right"><small><i>Generated on Mon, 13 Jul 2026 05:30:01 EDT</p>
