@@ -5,7 +5,7 @@
 
 Here are some of the projects I've worked on. Note: all the badge counts are statically generated because live shields.io badges were rate-limited, and require periodic regeneration.
 
-**Generated on:** Sat, 18 Jul 2026 18:05:26 EDT
+**Generated on:** Sat, 18 Jul 2026 19:05:42 EDT
 
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.6
 
@@ -156,7 +156,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>clip-httpd is a simple, secure, cross-platform clipboard server. It listens on a TCP port for incoming HTTPS requests containing text data and copies that text to the system clipboard</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/clip-httpd/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-6-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/clip-httpd/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-8-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Sep 11, 2025 | <b>Updated</b>: Nov 03, 2025 | <b>Pushed</b>: Nov 03, 2025</small>
 </p>
@@ -778,4 +778,4 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 18 Jul 2026 18:05:26 EDT</p>
+<p align="right"><small><i>Generated on Sat, 18 Jul 2026 19:05:42 EDT</p>
