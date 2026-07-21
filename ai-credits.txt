@@ -1,6 +1,7 @@
 # Format: repository_name|image_path|alt_text|title_text|width|height
 ssl-tls-verify|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 clip-httpd|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
+libgpw-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 go-xbuild-go|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 markdown-serve|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
 pingcheck|ai_assisted.svg|Claude AI Assisted|Claude AI Assisted|96|31
