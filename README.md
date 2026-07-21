@@ -5,7 +5,7 @@
 
 Here are some of the projects I've worked on. Note: all the badge counts are statically generated because live shields.io badges were rate-limited, and require periodic regeneration.
 
-**Generated on:** Tue, 21 Jul 2026 09:55:45 EDT
+**Generated on:** Tue, 21 Jul 2026 10:56:07 EDT
 
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.6
 
@@ -72,7 +72,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>A shell script to archive, sign, notarize, and staple a macOS/Catalyst app</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Shell-grey?style=flat-square&logo=shell&logoColor=white" alt="Language: Shell" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-1-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-1-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/NotarizeMacApp/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-0-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-1-blue?style=flat-square" alt="Forks" style="vertical-align: middle;">
   <br>
   <small><b>Created</b>: Jun 08, 2026 | <b>Updated</b>: Jul 14, 2026 | <b>Pushed</b>: Jun 27, 2026</small>
 </p>
@@ -534,7 +534,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>A simple tool to display download counts for GitHub release assets</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/githubdownloadcount-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-13-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;">
   <br>
   <small><b>Created</b>: Mar 22, 2025 | <b>Updated</b>: Mar 28, 2025 | <b>Pushed</b>: Mar 28, 2025</small>
 </p>
@@ -716,7 +716,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>Various examples of iOS 7+ porgramming</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Objective-C-grey?style=flat-square&logo=objective-c&logoColor=white" alt="Language: Objective-C" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/iosExamples/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-0-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
+<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;">
   <br>
   <small><b>Created</b>: Sep 01, 2014 | <b>Updated</b>: Jan 17, 2016 | <b>Pushed</b>: Jan 17, 2016</small>
 </p>
@@ -778,4 +778,4 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 
 
 ---
-<p align="right"><small><i>Generated on Tue, 21 Jul 2026 09:55:45 EDT</p>
+<p align="right"><small><i>Generated on Tue, 21 Jul 2026 10:56:07 EDT</p>
