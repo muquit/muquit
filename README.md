@@ -5,7 +5,7 @@
 
 Here are some of the projects I've worked on. Note: all the badge counts are statically generated because live shields.io badges were rate-limited, and require periodic regeneration.
 
-**Generated on:** Fri, 24 Jul 2026 12:08:15 EDT
+**Generated on:** Fri, 24 Jul 2026 13:08:43 EDT
 
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.6
 
@@ -184,7 +184,7 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 <p>A simple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
 
 <p style="font-size: 0.9em;"><img src="https://img.shields.io/badge/Go-grey?style=flat-square&logo=go&logoColor=white" alt="Language: Go" style="vertical-align: middle;"><img src="https://img.shields.io/badge/Stars-0-blue?style=flat-square" alt="Stars" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;">
+<img src="https://img.shields.io/badge/Forks-0-blue?style=flat-square" alt="Forks" style="vertical-align: middle;"><a href="https://github.com/muquit/github-profilegen-go/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Downloads-66-green?style=flat-square" alt="Latest Release Downloads" style="vertical-align: middle;"></a>
   <br>
   <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: Jul 12, 2026 | <b>Pushed</b>: Jul 12, 2026</small>
 </p>
@@ -778,4 +778,4 @@ Here are some of the projects I've worked on. Note: all the badge counts are sta
 
 
 ---
-<p align="right"><small><i>Generated on Fri, 24 Jul 2026 12:08:15 EDT</p>
+<p align="right"><small><i>Generated on Fri, 24 Jul 2026 13:08:43 EDT</p>
