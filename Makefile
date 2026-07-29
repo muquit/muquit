@@ -5,7 +5,10 @@
 # Jun-22-2026 
 #########################################################################
 
-all:  check_github_token
+# check if GITHUB_TOKEN is set, otherwise we'll hit 
+# rate limiting as the README.md is generated periodically
+# or while testing.
+all: check_github_token
 	github-profilegen-go -user muquit \
 		-exclude exclude.txt \
 		-priority priority.txt \
