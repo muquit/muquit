@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 54<br>
-**Generated on:** Mon, 03 Aug 2026 16:10:53 EDT<br>
+**Generated on:** Mon, 03 Aug 2026 17:11:19 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.7
 
 
@@ -128,7 +128,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Pronounceable password generator - Java library with CLI and Swing GUI</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1
   <br>
   <small><b>Created</b>: Oct 19, 2025 | <b>Updated</b>: Jun 02, 2026 | <b>Pushed</b>: Jun 02, 2026</small>
 </p>
@@ -778,4 +778,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Mon, 03 Aug 2026 16:10:53 EDT</p>
+<p align="right"><small><i>Generated on Mon, 03 Aug 2026 17:11:19 EDT</p>
