@@ -6,17 +6,17 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 54<br>
-**Generated on:** Sun, 09 Aug 2026 23:02:49 EDT<br>
-**Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.7
+**Generated on:** Mon, 10 Aug 2026 00:03:04 EDT<br>
+**Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
 
-<h3><a href="https://github.com/muquit/mailsend-go" target="_blank" rel="noopener noreferrer">mailsend-go</a></h3>
+<h3>• <a href="https://github.com/muquit/mailsend-go" target="_blank" rel="noopener noreferrer">mailsend-go</a></h3>
 
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 193 &nbsp;|&nbsp; <b>Forks:</b> 21 &nbsp;|&nbsp; <b>Downloads:</b> 66,360
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 193 &nbsp;|&nbsp; <b>Forks:</b> 21 &nbsp;|&nbsp; <b>Downloads:</b> 66,362
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 09, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -25,7 +25,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/mailsend" target="_blank" rel="noopener noreferrer">mailsend</a></h3>
+<h3>• <a href="https://github.com/muquit/mailsend" target="_blank" rel="noopener noreferrer">mailsend</a></h3>
 
 <p>A program to send mail via SMTP from command line</p>
 
@@ -39,7 +39,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/markdown-serve" target="_blank" rel="noopener noreferrer">markdown-serve</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/markdown-serve" target="_blank" rel="noopener noreferrer">markdown-serve</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A cross-platform command-line web server to browse Markdown files as HTML with auto refresh</p>
 
@@ -53,7 +53,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/pingcheck" target="_blank" rel="noopener noreferrer">pingcheck</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/pingcheck" target="_blank" rel="noopener noreferrer">pingcheck</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A native macOS menu bar app that shows connection status by periodically pinging configured IP addresses or hostnames</p>
 
@@ -67,7 +67,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/NotarizeMacApp" target="_blank" rel="noopener noreferrer">NotarizeMacApp</a></h3>
+<h3>• <a href="https://github.com/muquit/NotarizeMacApp" target="_blank" rel="noopener noreferrer">NotarizeMacApp</a></h3>
 
 <p>A shell script to archive, sign, notarize, and staple a macOS/Catalyst app</p>
 
@@ -81,7 +81,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/multiple-github-accounts" target="_blank" rel="noopener noreferrer">multiple-github-accounts</a></h3>
+<h3>• <a href="https://github.com/muquit/multiple-github-accounts" target="_blank" rel="noopener noreferrer">multiple-github-accounts</a></h3>
 
 <p>A guide to using multiple github accounts from a single machine - painless way</p>
 
@@ -95,7 +95,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/bash-prompt" target="_blank" rel="noopener noreferrer">bash-prompt</a></h3>
+<h3>• <a href="https://github.com/muquit/bash-prompt" target="_blank" rel="noopener noreferrer">bash-prompt</a></h3>
 
 <p>A git aware bash prompt</p>
 
@@ -109,7 +109,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/ssl-tls-verify" target="_blank" rel="noopener noreferrer">ssl-tls-verify</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/ssl-tls-verify" target="_blank" rel="noopener noreferrer">ssl-tls-verify</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A cross-platform tool to test and verify SSL/TLS connections</p>
 
@@ -123,7 +123,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/libgpw" target="_blank" rel="noopener noreferrer">libgpw</a></h3>
+<h3>• <a href="https://github.com/muquit/libgpw" target="_blank" rel="noopener noreferrer">libgpw</a></h3>
 
 <p>Pronounceable password generator - Java library with CLI and Swing GUI</p>
 
@@ -137,7 +137,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/libgpw-go" target="_blank" rel="noopener noreferrer">libgpw-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/libgpw-go" target="_blank" rel="noopener noreferrer">libgpw-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>Pronounceable password generator - Go library with CLI and WASM web GUI</p>
 
@@ -151,7 +151,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/clip-httpd" target="_blank" rel="noopener noreferrer">clip-httpd</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/clip-httpd" target="_blank" rel="noopener noreferrer">clip-httpd</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>clip-httpd is a simple, secure, cross-platform clipboard server. It listens on a TCP port for incoming HTTPS requests containing text data and copies that text to the system clipboard</p>
 
@@ -165,7 +165,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/go-xbuild-go" target="_blank" rel="noopener noreferrer">go-xbuild-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/go-xbuild-go" target="_blank" rel="noopener noreferrer">go-xbuild-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A go program to cross compile go programs for various platforms with ease and also create releases to github</p>
 
@@ -179,7 +179,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/github-profilegen-go" target="_blank" rel="noopener noreferrer">github-profilegen-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI/Gemini Assisted" title="Claude AI/Gemini Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/github-profilegen-go" target="_blank" rel="noopener noreferrer">github-profilegen-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI/Gemini Assisted" title="Claude AI/Gemini Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A simple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
 
@@ -193,7 +193,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/smtp-oauth-setup-guide" target="_blank" rel="noopener noreferrer">smtp-oauth-setup-guide</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/smtp-oauth-setup-guide" target="_blank" rel="noopener noreferrer">smtp-oauth-setup-guide</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>Setting up OAuth authentication for SMTP email sending with various providers</p>
 
@@ -207,7 +207,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/mrdialog" target="_blank" rel="noopener noreferrer">mrdialog</a></h3>
+<h3>• <a href="https://github.com/muquit/mrdialog" target="_blank" rel="noopener noreferrer">mrdialog</a></h3>
 
 <p>A pure ruby library for the ncurses dialog program</p>
 
@@ -221,7 +221,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/oauth-helper" target="_blank" rel="noopener noreferrer">oauth-helper</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/oauth-helper" target="_blank" rel="noopener noreferrer">oauth-helper</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A multi-platform tool to obtain OAuth2 access tokens for SMTP authentication</p>
 
@@ -235,7 +235,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/privategpt" target="_blank" rel="noopener noreferrer">privategpt</a></h3>
+<h3>• <a href="https://github.com/muquit/privategpt" target="_blank" rel="noopener noreferrer">privategpt</a></h3>
 
 <p>An on-premises ML-powered document assistant application with local LLM using ollama</p>
 
@@ -249,7 +249,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/libsodium-jna" target="_blank" rel="noopener noreferrer">libsodium-jna</a></h3>
+<h3>• <a href="https://github.com/muquit/libsodium-jna" target="_blank" rel="noopener noreferrer">libsodium-jna</a></h3>
 
 <p>libsodium-jna is a java library that binds to libsodium C crypto APIs with Java Native Access (JNA)</p>
 
@@ -263,7 +263,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/RNCryptor-C" target="_blank" rel="noopener noreferrer">RNCryptor-C</a></h3>
+<h3>• <a href="https://github.com/muquit/RNCryptor-C" target="_blank" rel="noopener noreferrer">RNCryptor-C</a></h3>
 
 <p>C implementation of Rob Napier's RNCryptor data format specification </p>
 
@@ -277,7 +277,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/markdown-toc-go" target="_blank" rel="noopener noreferrer">markdown-toc-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/markdown-toc-go" target="_blank" rel="noopener noreferrer">markdown-toc-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A multi-platform tool to generate Table of Contents for Markdown files and more</p>
 
@@ -291,7 +291,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/daybreak" target="_blank" rel="noopener noreferrer">daybreak</a></h3>
+<h3>• <a href="https://github.com/muquit/daybreak" target="_blank" rel="noopener noreferrer">daybreak</a></h3>
 
 <p>A simple-dimple key value store for ruby.</p>
 
@@ -305,7 +305,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/grabc" target="_blank" rel="noopener noreferrer">grabc</a></h3>
+<h3>• <a href="https://github.com/muquit/grabc" target="_blank" rel="noopener noreferrer">grabc</a></h3>
 
 <p>A command line tool to identify a pixel color of an X Window System screen</p>
 
@@ -319,7 +319,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/mouse-mover" target="_blank" rel="noopener noreferrer">mouse-mover</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/mouse-mover" target="_blank" rel="noopener noreferrer">mouse-mover</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
@@ -333,7 +333,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/genmake-go" target="_blank" rel="noopener noreferrer">genmake-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/genmake-go" target="_blank" rel="noopener noreferrer">genmake-go</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>A simple cross-platform tool to generate simple Makefiles for C programs</p>
 
@@ -347,7 +347,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/cubic-ubuntu-server-fix" target="_blank" rel="noopener noreferrer">cubic-ubuntu-server-fix</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/cubic-ubuntu-server-fix" target="_blank" rel="noopener noreferrer">cubic-ubuntu-server-fix</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
@@ -361,7 +361,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
+<h3>• <a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
 
 <p>Repo for Homebrew formulae</p>
 
@@ -375,7 +375,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/gomail" target="_blank" rel="noopener noreferrer">gomail</a></h3>
+<h3>• <a href="https://github.com/muquit/gomail" target="_blank" rel="noopener noreferrer">gomail</a></h3>
 
 <p>The best way to send emails in Go.</p>
 
@@ -389,7 +389,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/hello_gomail" target="_blank" rel="noopener noreferrer">hello_gomail</a></h3>
+<h3>• <a href="https://github.com/muquit/hello_gomail" target="_blank" rel="noopener noreferrer">hello_gomail</a></h3>
 
 <p>A minimal example showing how to use the gomail library</p>
 
@@ -403,7 +403,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/hello-world" target="_blank" rel="noopener noreferrer">hello-world</a></h3>
+<h3>• <a href="https://github.com/muquit/hello-world" target="_blank" rel="noopener noreferrer">hello-world</a></h3>
 
 <p>A repo for testing homebrew formulae</p>
 
@@ -417,7 +417,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/applehealth2csv" target="_blank" rel="noopener noreferrer">applehealth2csv</a></h3>
+<h3>• <a href="https://github.com/muquit/applehealth2csv" target="_blank" rel="noopener noreferrer">applehealth2csv</a></h3>
 
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
@@ -431,7 +431,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/applehealth" target="_blank" rel="noopener noreferrer">applehealth</a></h3>
+<h3>• <a href="https://github.com/muquit/applehealth" target="_blank" rel="noopener noreferrer">applehealth</a></h3>
 
 <p>Go module for accessing Apple Health exported data.</p>
 
@@ -445,7 +445,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/test-release" target="_blank" rel="noopener noreferrer">test-release</a></h3>
+<h3>• <a href="https://github.com/muquit/test-release" target="_blank" rel="noopener noreferrer">test-release</a></h3>
 
 <p>Test release with go-xbuild-go</p>
 
@@ -459,7 +459,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/hod" target="_blank" rel="noopener noreferrer">hod</a></h3>
+<h3>• <a href="https://github.com/muquit/hod" target="_blank" rel="noopener noreferrer">hod</a></h3>
 
 <p>hexadecimal or octal data dumper</p>
 
@@ -473,7 +473,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/go-multi-main-example" target="_blank" rel="noopener noreferrer">go-multi-main-example</a></h3>
+<h3>• <a href="https://github.com/muquit/go-multi-main-example" target="_blank" rel="noopener noreferrer">go-multi-main-example</a></h3>
 
 <p>Demo project for go-xbuild-go v1.0.5+ multi-binary builds with CLI and server examples</p>
 
@@ -487,7 +487,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/githubdownloadcount" target="_blank" rel="noopener noreferrer">githubdownloadcount</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/githubdownloadcount" target="_blank" rel="noopener noreferrer">githubdownloadcount</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>Display github download counts of a project's binary assets</p>
 
@@ -501,7 +501,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/github_test" target="_blank" rel="noopener noreferrer">github_test</a></h3>
+<h3>• <a href="https://github.com/muquit/github_test" target="_blank" rel="noopener noreferrer">github_test</a></h3>
 
 <p>For testing various things</p>
 
@@ -515,7 +515,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/go-xbuild" target="_blank" rel="noopener noreferrer">go-xbuild</a></h3>
+<h3>• <a href="https://github.com/muquit/go-xbuild" target="_blank" rel="noopener noreferrer">go-xbuild</a></h3>
 
 <p>Cross compile Go projects without the complexity of GoReleaser</p>
 
@@ -529,7 +529,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/githubdownloadcount-go" target="_blank" rel="noopener noreferrer">githubdownloadcount-go</a></h3>
+<h3>• <a href="https://github.com/muquit/githubdownloadcount-go" target="_blank" rel="noopener noreferrer">githubdownloadcount-go</a></h3>
 
 <p>A simple tool to display download counts for GitHub release assets</p>
 
@@ -543,7 +543,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/quotedprintable" target="_blank" rel="noopener noreferrer">quotedprintable</a></h3>
+<h3>• <a href="https://github.com/muquit/quotedprintable" target="_blank" rel="noopener noreferrer">quotedprintable</a></h3>
 
 <p>A Go package concerning quoted-printable encoding.</p>
 
@@ -557,7 +557,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/oauth_tokengen" target="_blank" rel="noopener noreferrer">oauth_tokengen</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+<h3>• <a href="https://github.com/muquit/oauth_tokengen" target="_blank" rel="noopener noreferrer">oauth_tokengen</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
 <p>oauth_tokengen is a command line tool to obtain OAuth2 tokens for different providers using a local callback server</p>
 
@@ -571,7 +571,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/get-oauth-token" target="_blank" rel="noopener noreferrer">get-oauth-token</a></h3>
+<h3>• <a href="https://github.com/muquit/get-oauth-token" target="_blank" rel="noopener noreferrer">get-oauth-token</a></h3>
 
 <p>get-oauth-token is a command line tool to obtain a fresh OAuth2 access token using a refresh token</p>
 
@@ -585,7 +585,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/kickstart.nvim" target="_blank" rel="noopener noreferrer">kickstart.nvim</a></h3>
+<h3>• <a href="https://github.com/muquit/kickstart.nvim" target="_blank" rel="noopener noreferrer">kickstart.nvim</a></h3>
 
 <p>A launch point for your personal nvim configuration</p>
 
@@ -599,7 +599,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/anything-sync-daemon" target="_blank" rel="noopener noreferrer">anything-sync-daemon</a></h3>
+<h3>• <a href="https://github.com/muquit/anything-sync-daemon" target="_blank" rel="noopener noreferrer">anything-sync-daemon</a></h3>
 
 <p>Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.</p>
 
@@ -613,7 +613,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/decrypt_metamask_vault" target="_blank" rel="noopener noreferrer">decrypt_metamask_vault</a></h3>
+<h3>• <a href="https://github.com/muquit/decrypt_metamask_vault" target="_blank" rel="noopener noreferrer">decrypt_metamask_vault</a></h3>
 
 <p>Decrypt Metamask's vault file</p>
 
@@ -627,7 +627,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/dfk_utils" target="_blank" rel="noopener noreferrer">dfk_utils</a></h3>
+<h3>• <a href="https://github.com/muquit/dfk_utils" target="_blank" rel="noopener noreferrer">dfk_utils</a></h3>
 
 <p>Some utilities for interacting with smart contracts of defikingdoms</p>
 
@@ -641,7 +641,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/hod-go" target="_blank" rel="noopener noreferrer">hod-go</a></h3>
+<h3>• <a href="https://github.com/muquit/hod-go" target="_blank" rel="noopener noreferrer">hod-go</a></h3>
 
 <p>Dump data in hex or octal. A go implementation of https://github.com/muquit/hod</p>
 
@@ -655,7 +655,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/gwt-uploader" target="_blank" rel="noopener noreferrer">gwt-uploader</a></h3>
+<h3>• <a href="https://github.com/muquit/gwt-uploader" target="_blank" rel="noopener noreferrer">gwt-uploader</a></h3>
 
 <p>An API to enable sophisticated file upload capabilities within a GWT application.</p>
 
@@ -669,7 +669,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/iphonemm" target="_blank" rel="noopener noreferrer">iphonemm</a></h3>
+<h3>• <a href="https://github.com/muquit/iphonemm" target="_blank" rel="noopener noreferrer">iphonemm</a></h3>
 
 <p>Mastermind game for original iPhone</p>
 
@@ -683,7 +683,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/gwtbootstrap3-extras" target="_blank" rel="noopener noreferrer">gwtbootstrap3-extras</a></h3>
+<h3>• <a href="https://github.com/muquit/gwtbootstrap3-extras" target="_blank" rel="noopener noreferrer">gwtbootstrap3-extras</a></h3>
 
 <p>Extra (third party) wrappers for GwtBootstrap3</p>
 
@@ -697,7 +697,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/gwtp-eclipse-plugin" target="_blank" rel="noopener noreferrer">gwtp-eclipse-plugin</a></h3>
+<h3>• <a href="https://github.com/muquit/gwtp-eclipse-plugin" target="_blank" rel="noopener noreferrer">gwtp-eclipse-plugin</a></h3>
 
 <p>GWT-Platform (GWTP) Eclipse Plugin</p>
 
@@ -711,7 +711,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/iosExamples" target="_blank" rel="noopener noreferrer">iosExamples</a></h3>
+<h3>• <a href="https://github.com/muquit/iosExamples" target="_blank" rel="noopener noreferrer">iosExamples</a></h3>
 
 <p>Various examples of iOS 7+ porgramming</p>
 
@@ -725,7 +725,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/RNCryptor" target="_blank" rel="noopener noreferrer">RNCryptor</a></h3>
+<h3>• <a href="https://github.com/muquit/RNCryptor" target="_blank" rel="noopener noreferrer">RNCryptor</a></h3>
 
 <p>CCCryptor (AES encryption) wrappers for iOS and Mac. -- For Swift, see swift branch and release 4.0.</p>
 
@@ -739,7 +739,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/RNCryptor-go" target="_blank" rel="noopener noreferrer">RNCryptor-go</a></h3>
+<h3>• <a href="https://github.com/muquit/RNCryptor-go" target="_blank" rel="noopener noreferrer">RNCryptor-go</a></h3>
 
 <p>Go implementation of RNCryptor</p>
 
@@ -753,7 +753,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
-<h3><a href="https://github.com/muquit/gwtoauthlogindemo" target="_blank" rel="noopener noreferrer">gwtoauthlogindemo</a></h3>
+<h3>• <a href="https://github.com/muquit/gwtoauthlogindemo" target="_blank" rel="noopener noreferrer">gwtoauthlogindemo</a></h3>
 
 <p>Demonstrates how to use OAuth protocol from a GWT application</p>
 
@@ -778,4 +778,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Sun, 09 Aug 2026 23:02:49 EDT</p>
+<p align="right"><small><i>Generated on Mon, 10 Aug 2026 00:03:04 EDT</p>
