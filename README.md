@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 54<br>
-**Generated on:** Sun, 16 Aug 2026 18:47:58 EDT<br>
+**Generated on:** Tue, 18 Aug 2026 08:51:27 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 194 &nbsp;|&nbsp; <b>Forks:</b> 21 &nbsp;|&nbsp; <b>Downloads:</b> 66,490
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 194 &nbsp;|&nbsp; <b>Forks:</b> 21 &nbsp;|&nbsp; <b>Downloads:</b> 66,527
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 10, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -30,7 +30,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,523
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,528
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Jul 18, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -254,9 +254,9 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>libsodium-jna is a java library that binds to libsodium C crypto APIs with Java Native Access (JNA)</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 59 &nbsp;|&nbsp; <b>Forks:</b> 12 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 58 &nbsp;|&nbsp; <b>Forks:</b> 12 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
-  <small><b>Created</b>: Jun 24, 2017 | <b>Updated</b>: Jul 11, 2026 | <b>Pushed</b>: Jun 29, 2026</small>
+  <small><b>Created</b>: Jun 24, 2017 | <b>Updated</b>: Aug 17, 2026 | <b>Pushed</b>: Jun 29, 2026</small>
 </p>
 
 
@@ -778,4 +778,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Sun, 16 Aug 2026 18:47:58 EDT</p>
+<p align="right"><small><i>Generated on Tue, 18 Aug 2026 08:51:27 EDT</p>
