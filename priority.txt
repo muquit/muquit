@@ -6,6 +6,7 @@
 #cool-tool
 mailsend-go
 mailsend
+iphone-frameit
 markdown-serve
 pingcheck
 NotarizeMacApp

@@ -5,8 +5,8 @@
 
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
-**Number of repositories:** 54<br>
-**Generated on:** Sun, 23 Aug 2026 21:27:24 EDT<br>
+**Number of repositories:** 55<br>
+**Generated on:** Sun, 23 Aug 2026 22:01:36 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 66,618
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 66,620
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 23, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -33,6 +33,20 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,554
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Jul 18, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3>• <a href="https://github.com/muquit/iphone-frameit" target="_blank" rel="noopener noreferrer">iphone-frameit</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+
+<p>A cross-platform CLI for wrapping  photo-realistic frames around iPhone screenshots</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+  <br>
+  <small><b>Created</b>: Aug 23, 2026 | <b>Updated</b>: Aug 24, 2026 | <b>Pushed</b>: Aug 24, 2026</small>
 </p>
 
 
@@ -778,4 +792,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Sun, 23 Aug 2026 21:27:24 EDT</p>
+<p align="right"><small><i>Generated on Sun, 23 Aug 2026 22:01:36 EDT</p>
