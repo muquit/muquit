@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 55<br>
-**Generated on:** Thu, 27 Aug 2026 02:13:23 EDT<br>
+**Generated on:** Thu, 27 Aug 2026 03:13:39 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 66,701
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 66,702
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 23, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -366,7 +366,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 416
+<b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 418
   <br>
   <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: Feb 28, 2026 | <b>Pushed</b>: May 12, 2025</small>
 </p>
@@ -792,4 +792,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 27 Aug 2026 02:13:23 EDT</p>
+<p align="right"><small><i>Generated on Thu, 27 Aug 2026 03:13:39 EDT</p>
