@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 56<br>
-**Generated on:** Thu, 27 Aug 2026 22:19:09 EDT<br>
+**Generated on:** Thu, 27 Aug 2026 23:19:26 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 66,721
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 66,723
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 23, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -58,7 +58,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A cross-platform CLI to decrypt Ente Auth encrypted exports for live 2FA/TOTP codes, or QR codes displayed right in your terminal to import into other authenticator apps</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 1
   <br>
   <small><b>Created</b>: Aug 28, 2026 | <b>Updated</b>: Aug 28, 2026 | <b>Pushed</b>: Aug 28, 2026</small>
 </p>
@@ -806,4 +806,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 27 Aug 2026 22:19:09 EDT</p>
+<p align="right"><small><i>Generated on Thu, 27 Aug 2026 23:19:26 EDT</p>
