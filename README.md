@@ -5,8 +5,8 @@
 
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
-**Number of repositories:** 55<br>
-**Generated on:** Thu, 27 Aug 2026 21:18:54 EDT<br>
+**Number of repositories:** 56<br>
+**Generated on:** Thu, 27 Aug 2026 21:48:06 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -47,6 +47,20 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 7
   <br>
   <small><b>Created</b>: Aug 23, 2026 | <b>Updated</b>: Aug 24, 2026 | <b>Pushed</b>: Aug 24, 2026</small>
+</p>
+
+
+
+<hr>
+
+<h3>• <a href="https://github.com/muquit/twofa-rescue" target="_blank" rel="noopener noreferrer">twofa-rescue</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+
+<p>A cross-platform CLI to decrypt Ente Auth encrypted exports for live 2FA/TOTP codes, or QR codes displayed right in your terminal to import into other authenticator apps</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+  <br>
+  <small><b>Created</b>: Aug 28, 2026 | <b>Updated</b>: Aug 28, 2026 | <b>Pushed</b>: Aug 28, 2026</small>
 </p>
 
 
@@ -792,4 +806,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 27 Aug 2026 21:18:54 EDT</p>
+<p align="right"><small><i>Generated on Thu, 27 Aug 2026 21:48:06 EDT</p>
