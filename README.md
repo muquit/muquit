@@ -5,8 +5,8 @@
 
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
-**Number of repositories:** 56<br>
-**Generated on:** Wed, 02 Sep 2026 21:15:32 EDT<br>
+**Number of repositories:** 57<br>
+**Generated on:** Wed, 02 Sep 2026 21:32:20 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -383,6 +383,20 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 419
   <br>
   <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: Feb 28, 2026 | <b>Pushed</b>: May 12, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3>• <a href="https://github.com/muquit/windows11-for-unix-users" target="_blank" rel="noopener noreferrer">windows11-for-unix-users</a></h3>
+
+<p>Notes on setting up Windows 11 for Unix/Linux/macOS users</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Makefile &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+  <br>
+  <small><b>Created</b>: Sep 02, 2026 | <b>Updated</b>: Sep 03, 2026 | <b>Pushed</b>: Sep 03, 2026</small>
 </p>
 
 
@@ -806,4 +820,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Wed, 02 Sep 2026 21:15:32 EDT</p>
+<p align="right"><small><i>Generated on Wed, 02 Sep 2026 21:32:20 EDT</p>
