@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 57<br>
-**Generated on:** Sat, 05 Sep 2026 22:58:37 EDT<br>
+**Generated on:** Sat, 05 Sep 2026 23:58:52 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 66,999
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 67,004
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Aug 23, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -30,7 +30,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,603
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,604
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Jul 18, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -366,7 +366,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 201
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 202
   <br>
   <small><b>Created</b>: Apr 02, 2025 | <b>Updated</b>: Apr 02, 2025 | <b>Pushed</b>: Apr 02, 2025</small>
 </p>
@@ -820,4 +820,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Sat, 05 Sep 2026 22:58:37 EDT</p>
+<p align="right"><small><i>Generated on Sat, 05 Sep 2026 23:58:52 EDT</p>
