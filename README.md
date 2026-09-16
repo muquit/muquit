@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 57<br>
-**Generated on:** Wed, 16 Sep 2026 07:12:03 EDT<br>
+**Generated on:** Wed, 16 Sep 2026 08:12:22 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -30,7 +30,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,633
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,634
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Sep 12, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -800,7 +800,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Demonstrates how to use OAuth protocol from a GWT application</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 11 &nbsp;|&nbsp; <b>Forks:</b> 2
+<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 11 &nbsp;|&nbsp; <b>Forks:</b> 2 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
   <small><b>Created</b>: Jun 08, 2014 | <b>Updated</b>: Jan 03, 2024 | <b>Pushed</b>: Jul 13, 2014</small>
 </p>
@@ -820,4 +820,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Wed, 16 Sep 2026 07:12:03 EDT</p>
+<p align="right"><small><i>Generated on Wed, 16 Sep 2026 08:12:22 EDT</p>
