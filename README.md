@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 57<br>
-**Generated on:** Tue, 22 Sep 2026 02:53:06 EDT<br>
+**Generated on:** Tue, 22 Sep 2026 03:53:24 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 21 &nbsp;|&nbsp; <b>Downloads:</b> 67,429
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 21 &nbsp;|&nbsp; <b>Downloads:</b> 67,431
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Sep 08, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
 </p>
@@ -30,7 +30,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,649
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 303 &nbsp;|&nbsp; <b>Forks:</b> 70 &nbsp;|&nbsp; <b>Downloads:</b> 77,651
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Sep 12, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -820,4 +820,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Tue, 22 Sep 2026 02:53:06 EDT</p>
+<p align="right"><small><i>Generated on Tue, 22 Sep 2026 03:53:24 EDT</p>
