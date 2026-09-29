@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 57<br>
-**Generated on:** Tue, 29 Sep 2026 18:49:29 EDT<br>
+**Generated on:** Tue, 29 Sep 2026 19:49:47 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -403,6 +403,34 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
+<h3>• <a href="https://github.com/muquit/gomail" target="_blank" rel="noopener noreferrer">gomail</a></h3>
+
+<p>The best way to send emails in Go.</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 3 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
+  <br>
+  <small><b>Created</b>: Feb 20, 2020 | <b>Updated</b>: Sep 07, 2026 | <b>Pushed</b>: Sep 29, 2026</small>
+</p>
+
+
+
+<hr>
+
+<h3>• <a href="https://github.com/muquit/quotedprintable" target="_blank" rel="noopener noreferrer">quotedprintable</a></h3>
+
+<p>A Go package concerning quoted-printable encoding.</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
+  <br>
+  <small><b>Created</b>: Feb 04, 2025 | <b>Updated</b>: Sep 29, 2026 | <b>Pushed</b>: Sep 29, 2026</small>
+</p>
+
+
+
+<hr>
+
 <h3>• <a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
 
 <p>Repo for Homebrew formulae</p>
@@ -411,20 +439,6 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
   <br>
   <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: May 17, 2026 | <b>Pushed</b>: May 17, 2026</small>
-</p>
-
-
-
-<hr>
-
-<h3>• <a href="https://github.com/muquit/gomail" target="_blank" rel="noopener noreferrer">gomail</a></h3>
-
-<p>The best way to send emails in Go.</p>
-
-<p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 3 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
-  <br>
-  <small><b>Created</b>: Feb 20, 2020 | <b>Updated</b>: Sep 07, 2026 | <b>Pushed</b>: May 06, 2026</small>
 </p>
 
 
@@ -579,20 +593,6 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 17
   <br>
   <small><b>Created</b>: Mar 22, 2025 | <b>Updated</b>: Mar 28, 2025 | <b>Pushed</b>: Mar 28, 2025</small>
-</p>
-
-
-
-<hr>
-
-<h3>• <a href="https://github.com/muquit/quotedprintable" target="_blank" rel="noopener noreferrer">quotedprintable</a></h3>
-
-<p>A Go package concerning quoted-printable encoding.</p>
-
-<p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
-  <br>
-  <small><b>Created</b>: Feb 04, 2025 | <b>Updated</b>: Mar 26, 2025 | <b>Pushed</b>: Mar 26, 2025</small>
 </p>
 
 
@@ -820,4 +820,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Tue, 29 Sep 2026 18:49:29 EDT</p>
+<p align="right"><small><i>Generated on Tue, 29 Sep 2026 19:49:47 EDT</p>
