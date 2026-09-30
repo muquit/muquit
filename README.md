@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 57<br>
-**Generated on:** Tue, 29 Sep 2026 20:50:04 EDT<br>
+**Generated on:** Tue, 29 Sep 2026 21:25:16 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -18,7 +18,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p style="font-size: 0.9em;">
 <b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 21 &nbsp;|&nbsp; <b>Downloads:</b> 67,646
   <br>
-  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Sep 08, 2026 | <b>Pushed</b>: Jun 24, 2026</small>
+  <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Sep 30, 2026 | <b>Pushed</b>: Sep 30, 2026</small>
 </p>
 
 
@@ -403,6 +403,20 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
+<h3>• <a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
+
+<p>Repo for Homebrew formulae</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
+  <br>
+  <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Sep 30, 2026 | <b>Pushed</b>: Sep 30, 2026</small>
+</p>
+
+
+
+<hr>
+
 <h3>• <a href="https://github.com/muquit/gomail" target="_blank" rel="noopener noreferrer">gomail</a></h3>
 
 <p>The best way to send emails in Go.</p>
@@ -425,20 +439,6 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
   <br>
   <small><b>Created</b>: Feb 04, 2025 | <b>Updated</b>: Sep 29, 2026 | <b>Pushed</b>: Sep 29, 2026</small>
-</p>
-
-
-
-<hr>
-
-<h3>• <a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
-
-<p>Repo for Homebrew formulae</p>
-
-<p style="font-size: 0.9em;">
-<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
-  <br>
-  <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: May 17, 2026 | <b>Pushed</b>: May 17, 2026</small>
 </p>
 
 
@@ -800,7 +800,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Demonstrates how to use OAuth protocol from a GWT application</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 11 &nbsp;|&nbsp; <b>Forks:</b> 2 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 11 &nbsp;|&nbsp; <b>Forks:</b> 2
   <br>
   <small><b>Created</b>: Jun 08, 2014 | <b>Updated</b>: Jan 03, 2024 | <b>Pushed</b>: Jul 13, 2014</small>
 </p>
@@ -820,4 +820,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Tue, 29 Sep 2026 20:50:04 EDT</p>
+<p align="right"><small><i>Generated on Tue, 29 Sep 2026 21:25:16 EDT</p>
