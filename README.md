@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Thu, 01 Oct 2026 18:56:22 EDT<br>
+**Generated on:** Thu, 01 Oct 2026 19:56:39 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 68,093
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 68,127
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Oct 01, 2026 | <b>Pushed</b>: Oct 01, 2026</small>
 </p>
@@ -492,7 +492,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 28 &nbsp;|&nbsp; <b>Forks:</b> 3 &nbsp;|&nbsp; <b>Downloads:</b> 353
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 28 &nbsp;|&nbsp; <b>Forks:</b> 3 &nbsp;|&nbsp; <b>Downloads:</b> 354
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: May 22, 2026 | <b>Pushed</b>: Apr 15, 2026</small>
 </p>
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 01 Oct 2026 18:56:22 EDT</p>
+<p align="right"><small><i>Generated on Thu, 01 Oct 2026 19:56:39 EDT</p>
