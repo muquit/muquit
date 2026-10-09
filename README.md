@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Thu, 08 Oct 2026 23:02:45 EDT<br>
+**Generated on:** Fri, 09 Oct 2026 00:03:03 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 68,853
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 68,855
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Oct 01, 2026 | <b>Pushed</b>: Oct 01, 2026</small>
 </p>
@@ -69,7 +69,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <h3>• <a href="https://github.com/muquit/twofa-rescue" target="_blank" rel="noopener noreferrer">twofa-rescue</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
 
-<p>A cross-platform CLI to decrypt Ente Auth encrypted exports for live 2FA/TOTP codes, or QR codes displayed right in your terminal to import into other authenticator apps</p>
+<p>Cross-platform CLI so you never have to depend on a single 2FA app or device</p>
 
 <p style="font-size: 0.9em;">
 <b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 5
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 08 Oct 2026 23:02:45 EDT</p>
+<p align="right"><small><i>Generated on Fri, 09 Oct 2026 00:03:03 EDT</p>
