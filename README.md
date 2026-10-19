@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Mon, 19 Oct 2026 15:23:25 EDT<br>
+**Generated on:** Mon, 19 Oct 2026 16:23:46 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,254
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,256
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Oct 01, 2026 | <b>Pushed</b>: Oct 01, 2026</small>
 </p>
@@ -366,7 +366,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 238
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 239
   <br>
   <small><b>Created</b>: Apr 02, 2025 | <b>Updated</b>: Apr 02, 2025 | <b>Pushed</b>: Apr 02, 2025</small>
 </p>
@@ -492,7 +492,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 29 &nbsp;|&nbsp; <b>Forks:</b> 3 &nbsp;|&nbsp; <b>Downloads:</b> 367
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 29 &nbsp;|&nbsp; <b>Forks:</b> 3 &nbsp;|&nbsp; <b>Downloads:</b> 368
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: Oct 02, 2026 | <b>Pushed</b>: Apr 15, 2026</small>
 </p>
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Mon, 19 Oct 2026 15:23:25 EDT</p>
+<p align="right"><small><i>Generated on Mon, 19 Oct 2026 16:23:46 EDT</p>
