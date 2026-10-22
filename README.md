@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Thu, 22 Oct 2026 12:46:47 EDT<br>
+**Generated on:** Thu, 22 Oct 2026 13:47:18 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -86,7 +86,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A cross-platform command-line web server to browse Markdown files as HTML with auto refresh</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 41
   <br>
   <small><b>Created</b>: Jun 17, 2026 | <b>Updated</b>: Oct 02, 2026 | <b>Pushed</b>: Sep 01, 2026</small>
 </p>
@@ -100,7 +100,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A native macOS menu bar app that shows connection status by periodically pinging configured IP addresses or hostnames</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Swift &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
+<b>Language:</b> Swift &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
   <small><b>Created</b>: Nov 20, 2025 | <b>Updated</b>: Jul 17, 2026 | <b>Pushed</b>: Jul 17, 2026</small>
 </p>
@@ -114,7 +114,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A shell script to archive, sign, notarize, and staple a macOS/Catalyst app</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 1
+<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
   <small><b>Created</b>: Jun 08, 2026 | <b>Updated</b>: Jul 14, 2026 | <b>Pushed</b>: Jun 27, 2026</small>
 </p>
@@ -198,7 +198,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>clip-httpd is a simple, secure, cross-platform clipboard server. It listens on a TCP port for incoming HTTPS requests containing text data and copies that text to the system clipboard</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 10
   <br>
   <small><b>Created</b>: Sep 11, 2025 | <b>Updated</b>: Nov 03, 2025 | <b>Pushed</b>: Nov 03, 2025</small>
 </p>
@@ -296,7 +296,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>libsodium-jna is a java library that binds to libsodium C crypto APIs with Java Native Access (JNA)</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 58 &nbsp;|&nbsp; <b>Forks:</b> 12
+<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 58 &nbsp;|&nbsp; <b>Forks:</b> 12 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
   <small><b>Created</b>: Jun 24, 2017 | <b>Updated</b>: Sep 27, 2026 | <b>Pushed</b>: Sep 27, 2026</small>
 </p>
@@ -338,7 +338,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A simple-dimple key value store for ruby.</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
+<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 6 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
   <br>
   <small><b>Created</b>: May 11, 2023 | <b>Updated</b>: Oct 12, 2025 | <b>Pushed</b>: Oct 12, 2025</small>
 </p>
@@ -352,7 +352,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A command line tool to identify a pixel color of an X Window System screen</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 90 &nbsp;|&nbsp; <b>Forks:</b> 8
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 90 &nbsp;|&nbsp; <b>Forks:</b> 8 &nbsp;|&nbsp; <b>Downloads:</b> 145
   <br>
   <small><b>Created</b>: Apr 11, 2018 | <b>Updated</b>: May 10, 2026 | <b>Pushed</b>: Sep 06, 2025</small>
 </p>
@@ -492,7 +492,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 29 &nbsp;|&nbsp; <b>Forks:</b> 3
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 29 &nbsp;|&nbsp; <b>Forks:</b> 3 &nbsp;|&nbsp; <b>Downloads:</b> 369
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: Oct 02, 2026 | <b>Pushed</b>: Apr 15, 2026</small>
 </p>
@@ -604,7 +604,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A simple tool to display download counts for GitHub release assets</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 17
   <br>
   <small><b>Created</b>: Mar 22, 2025 | <b>Updated</b>: Mar 28, 2025 | <b>Pushed</b>: Mar 28, 2025</small>
 </p>
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 22 Oct 2026 12:46:47 EDT</p>
+<p align="right"><small><i>Generated on Thu, 22 Oct 2026 13:47:18 EDT</p>
