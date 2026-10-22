@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Thu, 22 Oct 2026 10:45:43 EDT<br>
+**Generated on:** Thu, 22 Oct 2026 11:46:14 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,346
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,347
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Oct 01, 2026 | <b>Pushed</b>: Oct 01, 2026</small>
 </p>
@@ -30,7 +30,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A program to send mail via SMTP from command line</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 304 &nbsp;|&nbsp; <b>Forks:</b> 69 &nbsp;|&nbsp; <b>Downloads:</b> 77,778
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 304 &nbsp;|&nbsp; <b>Forks:</b> 69 &nbsp;|&nbsp; <b>Downloads:</b> 77,779
   <br>
   <small><b>Created</b>: Jan 12, 2014 | <b>Updated</b>: Oct 14, 2026 | <b>Pushed</b>: Apr 06, 2025</small>
 </p>
@@ -44,7 +44,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A cross-platform CLI for wrapping  photo-realistic frames around iPhone screenshots</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 8
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
   <br>
   <small><b>Created</b>: Aug 23, 2026 | <b>Updated</b>: Aug 24, 2026 | <b>Pushed</b>: Aug 24, 2026</small>
 </p>
@@ -100,7 +100,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A native macOS menu bar app that shows connection status by periodically pinging configured IP addresses or hostnames</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Swift &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Swift &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
   <br>
   <small><b>Created</b>: Nov 20, 2025 | <b>Updated</b>: Jul 17, 2026 | <b>Pushed</b>: Jul 17, 2026</small>
 </p>
@@ -352,7 +352,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A command line tool to identify a pixel color of an X Window System screen</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 90 &nbsp;|&nbsp; <b>Forks:</b> 8 &nbsp;|&nbsp; <b>Downloads:</b> 145
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 90 &nbsp;|&nbsp; <b>Forks:</b> 8
   <br>
   <small><b>Created</b>: Apr 11, 2018 | <b>Updated</b>: May 10, 2026 | <b>Pushed</b>: Sep 06, 2025</small>
 </p>
@@ -394,7 +394,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 423
+<b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1
   <br>
   <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: Feb 28, 2026 | <b>Pushed</b>: May 12, 2025</small>
 </p>
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 22 Oct 2026 10:45:43 EDT</p>
+<p align="right"><small><i>Generated on Thu, 22 Oct 2026 11:46:14 EDT</p>
