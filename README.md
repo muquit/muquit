@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Mon, 26 Oct 2026 12:17:29 EDT<br>
+**Generated on:** Mon, 26 Oct 2026 13:17:50 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,495
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,501
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Oct 01, 2026 | <b>Pushed</b>: Oct 01, 2026</small>
 </p>
@@ -44,7 +44,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A cross-platform CLI for wrapping  photo-realistic frames around iPhone screenshots</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 8
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 12
   <br>
   <small><b>Created</b>: Aug 23, 2026 | <b>Updated</b>: Aug 24, 2026 | <b>Pushed</b>: Aug 24, 2026</small>
 </p>
@@ -72,7 +72,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Cross-platform CLI so you never have to depend on a single 2FA app or device</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 5
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 9
   <br>
   <small><b>Created</b>: Aug 28, 2026 | <b>Updated</b>: Oct 09, 2026 | <b>Pushed</b>: Oct 09, 2026</small>
 </p>
@@ -86,7 +86,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A cross-platform command-line web server to browse Markdown files as HTML with auto refresh</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 43
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 49
   <br>
   <small><b>Created</b>: Jun 17, 2026 | <b>Updated</b>: Oct 02, 2026 | <b>Pushed</b>: Sep 01, 2026</small>
 </p>
@@ -142,7 +142,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A git aware bash prompt</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 2
+<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 4
   <br>
   <small><b>Created</b>: Feb 21, 2026 | <b>Updated</b>: Feb 24, 2026 | <b>Pushed</b>: Feb 24, 2026</small>
 </p>
@@ -156,7 +156,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A cross-platform tool to test and verify SSL/TLS connections</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 66
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 72
   <br>
   <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Oct 06, 2025 | <b>Pushed</b>: Oct 06, 2025</small>
 </p>
@@ -170,7 +170,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Pronounceable password generator - Java library with CLI and Swing GUI</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Java &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 3
   <br>
   <small><b>Created</b>: Oct 19, 2025 | <b>Updated</b>: Jun 02, 2026 | <b>Pushed</b>: Jun 02, 2026</small>
 </p>
@@ -184,7 +184,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Pronounceable password generator - Go library with CLI and WASM web GUI</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 7
   <br>
   <small><b>Created</b>: Nov 25, 2025 | <b>Updated</b>: Jun 04, 2026 | <b>Pushed</b>: Jun 04, 2026</small>
 </p>
@@ -198,7 +198,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>clip-httpd is a simple, secure, cross-platform clipboard server. It listens on a TCP port for incoming HTTPS requests containing text data and copies that text to the system clipboard</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 12
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 28
   <br>
   <small><b>Created</b>: Sep 11, 2025 | <b>Updated</b>: Nov 03, 2025 | <b>Pushed</b>: Nov 03, 2025</small>
 </p>
@@ -212,7 +212,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A go program to cross compile go programs for various platforms with ease and also create releases to github</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 152
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 158
   <br>
   <small><b>Created</b>: Mar 26, 2025 | <b>Updated</b>: Aug 27, 2026 | <b>Pushed</b>: Aug 27, 2026</small>
 </p>
@@ -226,7 +226,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A simple multi-platform tool to generate clean, minimal GitHub profile README.md</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 72
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 78
   <br>
   <small><b>Created</b>: Apr 01, 2025 | <b>Updated</b>: Jul 29, 2026 | <b>Pushed</b>: Jul 29, 2026</small>
 </p>
@@ -268,7 +268,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A multi-platform tool to obtain OAuth2 access tokens for SMTP authentication</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 22
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 28
   <br>
   <small><b>Created</b>: Jul 17, 2025 | <b>Updated</b>: Sep 15, 2026 | <b>Pushed</b>: Aug 23, 2025</small>
 </p>
@@ -324,7 +324,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A multi-platform tool to generate Table of Contents for Markdown files and more</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 16
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 22
   <br>
   <small><b>Created</b>: Mar 29, 2025 | <b>Updated</b>: Aug 13, 2026 | <b>Pushed</b>: Aug 13, 2026</small>
 </p>
@@ -338,7 +338,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A simple-dimple key value store for ruby.</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 6 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
+<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 8 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
   <br>
   <small><b>Created</b>: May 11, 2023 | <b>Updated</b>: Oct 12, 2025 | <b>Pushed</b>: Oct 12, 2025</small>
 </p>
@@ -352,7 +352,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A command line tool to identify a pixel color of an X Window System screen</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 90 &nbsp;|&nbsp; <b>Forks:</b> 8 &nbsp;|&nbsp; <b>Downloads:</b> 145
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 90 &nbsp;|&nbsp; <b>Forks:</b> 8 &nbsp;|&nbsp; <b>Downloads:</b> 147
   <br>
   <small><b>Created</b>: Apr 11, 2018 | <b>Updated</b>: May 10, 2026 | <b>Pushed</b>: Sep 06, 2025</small>
 </p>
@@ -366,7 +366,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A command line tool for Microsoft Windows to move mouse to any corner when the system is idle for x seconds</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 251
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 252
   <br>
   <small><b>Created</b>: Apr 02, 2025 | <b>Updated</b>: Apr 02, 2025 | <b>Pushed</b>: Apr 02, 2025</small>
 </p>
@@ -380,7 +380,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A simple cross-platform tool to generate simple Makefiles for C programs</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 5
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 11
   <br>
   <small><b>Created</b>: Mar 30, 2025 | <b>Updated</b>: Mar 30, 2025 | <b>Pushed</b>: Mar 30, 2025</small>
 </p>
@@ -394,7 +394,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Fix for Cubic (Custom Ubuntu ISO Creator) for Latest Ubuntu Server ISOs (Feb-27-2025)</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 423
+<b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 424
   <br>
   <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: Feb 28, 2026 | <b>Pushed</b>: May 12, 2025</small>
 </p>
@@ -478,7 +478,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A repo for testing homebrew formulae</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 19
+<b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 25
   <br>
   <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Apr 20, 2026 | <b>Pushed</b>: Apr 20, 2026</small>
 </p>
@@ -492,7 +492,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>applehealth2csv is a multi platform command line tool to convert Apple Watch health data to CSV or JSON files</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 30 &nbsp;|&nbsp; <b>Forks:</b> 3 &nbsp;|&nbsp; <b>Downloads:</b> 369
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 30 &nbsp;|&nbsp; <b>Forks:</b> 3 &nbsp;|&nbsp; <b>Downloads:</b> 376
   <br>
   <small><b>Created</b>: Feb 07, 2021 | <b>Updated</b>: Oct 23, 2026 | <b>Pushed</b>: Apr 15, 2026</small>
 </p>
@@ -520,7 +520,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Test release with go-xbuild-go</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 5
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 11
   <br>
   <small><b>Created</b>: Oct 08, 2025 | <b>Updated</b>: Oct 08, 2025 | <b>Pushed</b>: Oct 11, 2025</small>
 </p>
@@ -534,7 +534,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>hexadecimal or octal data dumper</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 29
+<b>Language:</b> C &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 31
   <br>
   <small><b>Created</b>: Jan 04, 2014 | <b>Updated</b>: Sep 18, 2025 | <b>Pushed</b>: Sep 18, 2025</small>
 </p>
@@ -548,7 +548,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Demo project for go-xbuild-go v1.0.5+ multi-binary builds with CLI and server examples</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 32
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 40
   <br>
   <small><b>Created</b>: Jun 22, 2025 | <b>Updated</b>: Jun 22, 2025 | <b>Pushed</b>: Jun 22, 2025</small>
 </p>
@@ -604,7 +604,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A simple tool to display download counts for GitHub release assets</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 17
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 23
   <br>
   <small><b>Created</b>: Mar 22, 2025 | <b>Updated</b>: Mar 28, 2025 | <b>Pushed</b>: Mar 28, 2025</small>
 </p>
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Mon, 26 Oct 2026 12:17:29 EDT</p>
+<p align="right"><small><i>Generated on Mon, 26 Oct 2026 13:17:50 EDT</p>
