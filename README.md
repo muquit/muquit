@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Wed, 28 Oct 2026 12:34:08 EDT<br>
+**Generated on:** Wed, 28 Oct 2026 13:34:29 EDT<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
 
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,569
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 196 &nbsp;|&nbsp; <b>Forks:</b> 20 &nbsp;|&nbsp; <b>Downloads:</b> 69,583
   <br>
   <small><b>Created</b>: Jan 26, 2019 | <b>Updated</b>: Oct 28, 2026 | <b>Pushed</b>: Oct 28, 2026</small>
 </p>
@@ -403,6 +403,20 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 <hr>
 
+<h3>• <a href="https://github.com/muquit/winget-pkgs" target="_blank" rel="noopener noreferrer">winget-pkgs</a></h3>
+
+<p>The Microsoft community Windows Package Manager manifest repository</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> N/A &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
+  <br>
+  <small><b>Created</b>: Oct 01, 2026 | <b>Updated</b>: Oct 28, 2026 | <b>Pushed</b>: Oct 28, 2026</small>
+</p>
+
+
+
+<hr>
+
 <h3>• <a href="https://github.com/muquit/homebrew-formulae" target="_blank" rel="noopener noreferrer">homebrew-formulae</a></h3>
 
 <p>Repo for Homebrew formulae</p>
@@ -411,20 +425,6 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Ruby &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
   <br>
   <small><b>Created</b>: Sep 26, 2025 | <b>Updated</b>: Oct 28, 2026 | <b>Pushed</b>: Oct 28, 2026</small>
-</p>
-
-
-
-<hr>
-
-<h3>• <a href="https://github.com/muquit/winget-pkgs" target="_blank" rel="noopener noreferrer">winget-pkgs</a></h3>
-
-<p>The Microsoft community Windows Package Manager manifest repository</p>
-
-<p style="font-size: 0.9em;">
-<b>Language:</b> N/A &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <i>(🍴 Forked)</i>
-  <br>
-  <small><b>Created</b>: Oct 01, 2026 | <b>Updated</b>: Oct 01, 2026 | <b>Pushed</b>: Oct 01, 2026</small>
 </p>
 
 
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Wed, 28 Oct 2026 12:34:08 EDT</p>
+<p align="right"><small><i>Generated on Wed, 28 Oct 2026 13:34:29 EDT</p>
