@@ -6,8 +6,8 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 58<br>
-**Generated on:** Wed, 18 Nov 2026 22:02:09 EST<br>
-**Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) dev
+**Generated on:** Wed, 18 Nov 2026 22:14:06 EST<br>
+**Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.7
 
 
 
@@ -834,4 +834,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Wed, 18 Nov 2026 22:02:09 EST</p>
+<p align="right"><small><i>Generated on Wed, 18 Nov 2026 22:14:06 EST</p>
