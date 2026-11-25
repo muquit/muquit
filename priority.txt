@@ -6,6 +6,7 @@
 #cool-tool
 mailsend-go
 mailsend
+cc-statusline
 iphone-frameit
 windows11-for-unix-users
 twofa-rescue
