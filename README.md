@@ -5,8 +5,8 @@
 
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
-**Number of repositories:** 58<br>
-**Generated on:** Tue, 24 Nov 2026 20:00:01 EST<br>
+**Number of repositories:** 59<br>
+**Generated on:** Tue, 24 Nov 2026 21:00:22 EST<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.7
 
 
@@ -397,6 +397,20 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 429
   <br>
   <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: Feb 28, 2026 | <b>Pushed</b>: May 12, 2025</small>
+</p>
+
+
+
+<hr>
+
+<h3>• <a href="https://github.com/muquit/cc-statusline" target="_blank" rel="noopener noreferrer">cc-statusline</a></h3>
+
+<p>A bash script to show usage and other info in the Claude Code status line</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+  <br>
+  <small><b>Created</b>: Nov 24, 2026 | <b>Updated</b>: Nov 25, 2026 | <b>Pushed</b>: Nov 25, 2026</small>
 </p>
 
 
@@ -834,4 +848,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Tue, 24 Nov 2026 20:00:01 EST</p>
+<p align="right"><small><i>Generated on Tue, 24 Nov 2026 21:00:22 EST</p>
