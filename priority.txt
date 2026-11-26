@@ -7,7 +7,7 @@
 mailsend-go
 mailsend
 cc-statusline
-locate_cc
+locate-cc
 iphone-frameit
 windows11-for-unix-users
 twofa-rescue
