@@ -5,8 +5,8 @@
 
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
-**Number of repositories:** 59<br>
-**Generated on:** Wed, 25 Nov 2026 18:32:01 EST<br>
+**Number of repositories:** 60<br>
+**Generated on:** Wed, 25 Nov 2026 19:27:52 EST<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.7
 
 
@@ -46,7 +46,21 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p style="font-size: 0.9em;">
 <b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
-  <small><b>Created</b>: Nov 24, 2026 | <b>Updated</b>: Nov 25, 2026 | <b>Pushed</b>: Nov 25, 2026</small>
+  <small><b>Created</b>: Nov 24, 2026 | <b>Updated</b>: Nov 25, 2026 | <b>Pushed</b>: Nov 26, 2026</small>
+</p>
+
+
+
+<hr>
+
+<h3>• <a href="https://github.com/muquit/locate_cc.sh" target="_blank" rel="noopener noreferrer">locate_cc.sh</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+
+<p>A bash script to find the iTerm2 tab running a Claude Code session on a Mac</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
+  <br>
+  <small><b>Created</b>: Nov 26, 2026 | <b>Updated</b>: Nov 26, 2026 | <b>Pushed</b>: Nov 26, 2026</small>
 </p>
 
 
@@ -226,7 +240,7 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>A go program to cross compile go programs for various platforms with ease and also create releases to github</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 161
+<b>Language:</b> Go &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 162
   <br>
   <small><b>Created</b>: Mar 26, 2025 | <b>Updated</b>: Aug 27, 2026 | <b>Pushed</b>: Aug 27, 2026</small>
 </p>
@@ -848,4 +862,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Wed, 25 Nov 2026 18:32:01 EST</p>
+<p align="right"><small><i>Generated on Wed, 25 Nov 2026 19:27:52 EST</p>
