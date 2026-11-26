@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 60<br>
-**Generated on:** Thu, 26 Nov 2026 15:25:07 EST<br>
+**Generated on:** Thu, 26 Nov 2026 15:26:15 EST<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.7
 
 
@@ -47,6 +47,20 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
   <small><b>Created</b>: Nov 24, 2026 | <b>Updated</b>: Nov 25, 2026 | <b>Pushed</b>: Nov 26, 2026</small>
+</p>
+
+
+
+<hr>
+
+<h3>• <a href="https://github.com/muquit/locate-cc" target="_blank" rel="noopener noreferrer">locate-cc</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
+
+<p>A bash script to find the iTerm2 tab running a Claude Code session on a Mac</p>
+
+<p style="font-size: 0.9em;">
+<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
+  <br>
+  <small><b>Created</b>: Nov 26, 2026 | <b>Updated</b>: Nov 26, 2026 | <b>Pushed</b>: Nov 26, 2026</small>
 </p>
 
 
@@ -411,20 +425,6 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <b>Language:</b> Python &nbsp;|&nbsp; <b>Stars:</b> 13 &nbsp;|&nbsp; <b>Forks:</b> 1 &nbsp;|&nbsp; <b>Downloads:</b> 429
   <br>
   <small><b>Created</b>: Feb 28, 2025 | <b>Updated</b>: Feb 28, 2026 | <b>Pushed</b>: May 12, 2025</small>
-</p>
-
-
-
-<hr>
-
-<h3>• <a href="https://github.com/muquit/locate-cc" target="_blank" rel="noopener noreferrer">locate-cc</a><a href="#"><img src="ai_assisted.svg" alt="Claude AI Assisted" title="Claude AI Assisted" width="96" height="31" style="vertical-align: middle; margin-left: 5px;"></a></h3>
-
-<p>A bash script to find the iTerm2 tab running a Claude Code session on a Mac</p>
-
-<p style="font-size: 0.9em;">
-<b>Language:</b> Shell &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0
-  <br>
-  <small><b>Created</b>: Nov 26, 2026 | <b>Updated</b>: Nov 26, 2026 | <b>Pushed</b>: Nov 26, 2026</small>
 </p>
 
 
@@ -862,4 +862,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Thu, 26 Nov 2026 15:25:07 EST</p>
+<p align="right"><small><i>Generated on Thu, 26 Nov 2026 15:26:15 EST</p>
