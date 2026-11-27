@@ -6,7 +6,7 @@
 Here are some of the projects I've worked on. Note: all stats (stars, forks, downloads) are fetched using github API at generation time and require periodic regeneration to stay current.
 
 **Number of repositories:** 60<br>
-**Generated on:** Fri, 27 Nov 2026 13:33:39 EST<br>
+**Generated on:** Fri, 27 Nov 2026 14:33:57 EST<br>
 **Generated with:** [github-profilegen-go](https://github.com/muquit/github-profilegen-go) v1.0.7
 
 
@@ -86,9 +86,9 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 <p>Notes on setting up Windows 11 for Unix/Linux/macOS users</p>
 
 <p style="font-size: 0.9em;">
-<b>Language:</b> Makefile &nbsp;|&nbsp; <b>Stars:</b> 0 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
+<b>Language:</b> Makefile &nbsp;|&nbsp; <b>Stars:</b> 1 &nbsp;|&nbsp; <b>Forks:</b> 0 &nbsp;|&nbsp; <b>Downloads:</b> 0
   <br>
-  <small><b>Created</b>: Sep 02, 2026 | <b>Updated</b>: Sep 03, 2026 | <b>Pushed</b>: Sep 03, 2026</small>
+  <small><b>Created</b>: Sep 02, 2026 | <b>Updated</b>: Nov 27, 2026 | <b>Pushed</b>: Sep 03, 2026</small>
 </p>
 
 
@@ -862,4 +862,4 @@ Here are some of the projects I've worked on. Note: all stats (stars, forks, dow
 
 
 ---
-<p align="right"><small><i>Generated on Fri, 27 Nov 2026 13:33:39 EST</p>
+<p align="right"><small><i>Generated on Fri, 27 Nov 2026 14:33:57 EST</p>
